@@ -19,3 +19,1590 @@ Potion,Restores 20 HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/
 Antidote,Cures poison.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/antidote.png
 Burn Heal,Cures a burn.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/burn-heal.png
 Ice Heal,Cures freezing.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-heal.png
+Awakening,Cures sleep.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/awakening.png
+Paralyze Heal,Cures paralysis.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/paralyze-heal.png
+Full Restore,Restores HP to full and cures any status ailment and confusion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-restore.png
+Max Potion,Restores HP to full.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-potion.png
+Hyper Potion,Restores 200 HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hyper-potion.png
+Super Potion,Restores 50 HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-potion.png
+Full Heal,Cures any status ailment and confusion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-heal.png
+Revive,Revives with half HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revive.png
+Max Revive,Revives with full HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-revive.png
+Fresh Water,Restores 50 HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fresh-water.png
+Soda Pop,Restores 60 HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soda-pop.png
+Lemonade,Restores 80 HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lemonade.png
+Moomoo Milk,Restores 100 HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moomoo-milk.png
+Energy Powder,"Restores 50 HP, but lowers happiness.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/energy-powder.png
+Energy Root,"Restores 200 HP, but lowers happiness.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/energy-root.png
+Heal Powder,"Cures any status ailment, but lowers happiness.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heal-powder.png
+Revival Herb,"Revives with full HP, but lowers happiness.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revival-herb.png
+Ether,Restores 10 PP for one move.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ether.png
+Max Ether,Restores PP to full for one move.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-ether.png
+Elixir,Restores 10 PP for each move.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/elixir.png
+Max Elixir,Restores PP to full for each move.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-elixir.png
+Lava Cookie,Cures any status ailment and confusion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lava-cookie.png
+Berry Juice,Restores 20 HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/berry-juice.png
+Sacred Ash,Revives all fainted Pokémon with full HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sacred-ash.png
+HP Up,Raises HP effort and happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hp-up.png
+Protein,Raises Attack effort and happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protein.png
+Iron,Raises Defense effort and happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron.png
+Carbos,Raises Speed effort and happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/carbos.png
+Calcium,Raises Special Attack effort and happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/calcium.png
+Rare Candy,Causes a level-up and raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-candy.png
+PP Up,Raises a move's max PP by 20%.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pp-up.png
+Zinc,Raises Special Defense and happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zinc.png
+PP Max,Raises a move's max PP by 60%.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pp-max.png
+Old Gateau,Cures any status ailment and confusion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-gateau.png
+Guard Spec.,Prevents stat changes in battle for five turns in battle.  Raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/guard-spec.png
+Dire Hit,Increases the chance of a critical hit in battle.  Raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit.png
+X Attack,Raises Attack by one stage in battle.  Raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack.png
+X Defense,Raises Defense by one stage in battle.  Raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense.png
+X Speed,Raises Speed by one stage in battle.  Raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed.png
+X Accuracy,Raises accuracy by one stage in battle.  Raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy.png
+X Sp. Atk,Raises Special Attack by one stage in battle.  Raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk.png
+X Sp. Def,Raises Special Defense by one stage in battle.  Raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def.png
+Poké Doll,Ends a wild battle.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-doll.png
+Fluffy Tail,Ends a wild battle.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fluffy-tail.png
+Blue Flute,Cures sleep.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-flute.png
+Yellow Flute,Cures confusion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-flute.png
+Red Flute,Cures attraction.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-flute.png
+Black Flute,Halves the wild Pokémon encounter rate.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-flute.png
+White Flute,Doubles the wild Pokémon encounter rate.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-flute.png
+Shoal Salt,No effect. Gen III: Trade four and four Shoal Shells for a Shell Bell.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shoal-salt.png
+Shoal Shell,No effect. Gen III: Trade four and four Shoal Salts for a Shell Bell.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shoal-shell.png
+Red Shard,No effect. Can be traded for items or moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-shard.png
+Blue Shard,No effect. Can be traded for items or moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-shard.png
+Yellow Shard,No effect. Can be traded for items or moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-shard.png
+Green Shard,No effect. Can be traded for items or moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-shard.png
+Super Repel,"For 200 steps, prevents wild encounters of level lower than your party's lead Pokémon.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-repel.png
+Max Repel,"For 250 steps, prevents wild encounters of level lower than your party's lead Pokémon.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-repel.png
+Escape Rope,Transports user to the outside entrance of a cave.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/escape-rope.png
+Repel,"For 100 steps, prevents wild encounters of level lower than your party's lead Pokémon.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/repel.png
+Sun Stone,"Evolves a Cottonee into Whimsicott, a Gloom into Bellossom, a Petilil into Lilligant, or a Sunkern into Sunflora.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sun-stone.png
+Moon Stone,"Evolves a Clefairy into Clefable, a Jigglypuff into Wigglytuff, a Munna into Musharna, a Nidorina into Nidoqueen, a Nidorino into Nidoking, or a Skitty into Delcatty.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png
+Fire Stone,"Evolves an Eevee into Flareon, a Growlithe into Arcanine, a Pansear into Simisear, or a Vulpix into Ninetales.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fire-stone.png
+Thunder Stone,"Evolves an Eelektrik into Eelektross, an Eevee into Jolteon, or a Pikachu into Raichu.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/thunder-stone.png
+Water Stone,"Evolves an Eevee into Vaporeon, a Lombre into Ludicolo, a Panpour into Simipour, a Poliwhirl into Poliwrath, a Shellder into Cloyster, or a Staryu into Starmie.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/water-stone.png
+Leaf Stone,"Evolves an Exeggcute into Exeggutor, a Gloom into Vileplume, a Nuzleaf into Shiftry, a Pansage into Simisage, or a Weepinbell into Victreebel.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leaf-stone.png
+Tiny Mushroom,"Fire Red and Leaf Green: Trade two for prior Level-up moves. Sell for 250 Pokédollars, or to Hungry Maid for 500 Pokédollars.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tiny-mushroom.png
+Big Mushroom,"Fire Red and Leaf Green: Trade for prior Level-up moves. Sell for 2500 Pokédollars, or to Hungry Maid for 5000 Pokédollars.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-mushroom.png
+Pearl,"Sell for 700 Pokédollars, or to Ore Collector for 1400 Pokédollars.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl.png
+Big Pearl,"Sell for 3750 Pokédollars, or to Ore Collector for 7500 Pokédollars.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-pearl.png
+Stardust,"Sell for 1000 Pokédollars, or to Ore Collector for 2000 Pokédollars.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stardust.png
+Star Piece,"Platinum: Trade for one of each color Shard. Black and White: Trade for PP Up. Sell for 4900 Pokédollars, or to Ore Collector for 9800 Pokédollars.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/star-piece.png
+Nugget,"Sell for 5000 Pokédollars, or to Ore Collector for 10000 Pokédollars.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nugget.png
+Heart Scale,No effect. Can be traded for prior Level-up moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heart-scale.png
+Honey,,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/honey.png
+Growth Mulch,"Growing time of berries is reduced, but the soil dries out faster.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/growth-mulch.png
+Damp Mulch,"Growing time of berries is increased, but the soil dries out slower.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/damp-mulch.png
+Stable Mulch,Berries stay on the plant for longer than their usual time.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stable-mulch.png
+Gooey Mulch,Berries regrow from dead plants an increased number of times.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gooey-mulch.png
+Root Fossil,Can be revived into a Lileep.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/root-fossil.png
+Claw Fossil,Can be revived into an Anorith.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/claw-fossil.png
+Helix Fossil,Can be revived into an Omanyte.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/helix-fossil.png
+Dome Fossil,Can be revived into a Kabuto.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dome-fossil.png
+Old Amber,Can be revived into an Aerodactyl.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-amber.png
+Armor Fossil,Can be revived into a Shieldon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/armor-fossil.png
+Skull Fossil,Can be revived into a Cranidos.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/skull-fossil.png
+Rare Bone,"Sell for 5000 Pokédollars, or to Bone Man for 10000 Pokédollars.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-bone.png
+Shiny Stone,"Evolves a Minccino into Cinccino, a Roselia into Roserade, or a Togetic into Togekiss.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shiny-stone.png
+Dusk Stone,"Evolves a Lampent into Chandelure, a Misdreavus into Mismagius, or a Murkrow into Honchkrow.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dusk-stone.png
+Dawn Stone,Evolves a male Kirlia into Gallade or a female Snorunt into Froslass.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dawn-stone.png
+Oval Stone,Level-up during Day on a Happiny: Holder evolves into Chansey.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-stone.png
+Odd Keystone,Use on the tower on Route 209 to encounter Spiritomb if you have at least 32 Underground greetings.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/odd-keystone.png
+Adamant Orb,Boosts the damage from Dialga's Dragon-type and Steel-type moves by 20%.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adamant-orb.png
+Lustrous Orb,Boosts the damage from Palkia's Dragon-type and Water-type moves by 20%.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lustrous-orb.png
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+Cheri Berry,Held: Consumed when paralyzed to cure paralysis.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cheri-berry.png
+Chesto Berry,Held: Consumed when asleep to cure sleep.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chesto-berry.png
+Pecha Berry,Held: Consumed when poisoned to cure poison.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png
+Rawst Berry,Held: Consumed when burned to cure a burn.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rawst-berry.png
+Aspear Berry,Held: Consumed when frozen to cure frozen.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aspear-berry.png
+Leppa Berry,Held: Consumed when a move runs out of PP to restore its PP by 10.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leppa-berry.png
+Oran Berry,Held: Consumed at 1/2 max HP to recover 10 HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oran-berry.png
+Persim Berry,Held: Consumed when confused to cure confusion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/persim-berry.png
+Lum Berry,Held: Consumed to cure any status condition or confusion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lum-berry.png
+Sitrus Berry,Held: Consumed at 1/2 max HP to recover 1/4 max HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png
+Figy Berry,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike spicy flavor.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/figy-berry.png
+Wiki Berry,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike dry flavor.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wiki-berry.png
+Mago Berry,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sweet flavor.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mago-berry.png
+Aguav Berry,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike bitter flavor.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aguav-berry.png
+Iapapa Berry,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sour flavor.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iapapa-berry.png
+Razz Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razz-berry.png
+Bluk Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bluk-berry.png
+Nanab Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nanab-berry.png
+Wepear Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wepear-berry.png
+Pinap Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pinap-berry.png
+Pomeg Berry,Drops HP Effort Values by 10 and raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pomeg-berry.png
+Kelpsy Berry,Drops Attack Effort Values by 10 and raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kelpsy-berry.png
+Qualot Berry,Drops Defense Effort Values by 10 and raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/qualot-berry.png
+Hondew Berry,Drops Special Attack Effort Values by 10 and raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hondew-berry.png
+Grepa Berry,Drops Special Defense Effort Values by 10 and raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grepa-berry.png
+Tamato Berry,Drops Speed Effort Values by 10 and raises happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tamato-berry.png
+Cornn Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cornn-berry.png
+Magost Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magost-berry.png
+Rabuta Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rabuta-berry.png
+Nomel Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nomel-berry.png
+Spelon Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spelon-berry.png
+Pamtre Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pamtre-berry.png
+Watmel Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/watmel-berry.png
+Durin Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/durin-berry.png
+Belue Berry,Used for creating PokéBlocks and Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/belue-berry.png
+Occa Berry,Held: Consumed when struck by a super-effective Fire-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/occa-berry.png
+Passho Berry,Held: Consumed when struck by a super-effective Water-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/passho-berry.png
+Wacan Berry,Held: Consumed when struck by a super-effective Electric-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wacan-berry.png
+Rindo Berry,Held: Consumed when struck by a super-effective Grass-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rindo-berry.png
+Yache Berry,Held: Consumed when struck by a super-effective Ice-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yache-berry.png
+Chople Berry,Held: Consumed when struck by a super-effective Fighting-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chople-berry.png
+Kebia Berry,Held: Consumed when struck by a super-effective Poison-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kebia-berry.png
+Shuca Berry,Held: Consumed when struck by a super-effective Ground-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shuca-berry.png
+Coba Berry,Held: Consumed when struck by a super-effective Flying-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coba-berry.png
+Payapa Berry,Held: Consumed when struck by a super-effective Psychic-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/payapa-berry.png
+Tanga Berry,Held: Consumed when struck by a super-effective Bug-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tanga-berry.png
+Charti Berry,Held: Consumed when struck by a super-effective Rock-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charti-berry.png
+Kasib Berry,Held: Consumed when struck by a super-effective Ghost-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kasib-berry.png
+Haban Berry,Held: Consumed when struck by a super-effective Dragon-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/haban-berry.png
+Colbur Berry,Held: Consumed when struck by a super-effective Dark-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colbur-berry.png
+Babiri Berry,Held: Consumed when struck by a super-effective Steel-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/babiri-berry.png
+Chilan Berry,Held: Consumed when struck by a Normal-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chilan-berry.png
+Liechi Berry,Held: Consumed at 1/4 max HP to boost Attack.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/liechi-berry.png
+Ganlon Berry,Held: Consumed at 1/4 max HP to boost Defense.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ganlon-berry.png
+Salac Berry,Held: Consumed at 1/4 max HP to boost Speed.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/salac-berry.png
+Petaya Berry,Held: Consumed at 1/4 max HP to boost Special Attack.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/petaya-berry.png
+Apicot Berry,Held: Consumed at 1/4 max HP to boost Special Defense.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/apicot-berry.png
+Lansat Berry,Held: Consumed at 1/4 max HP to boost critical hit ratio by two stages.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lansat-berry.png
+Starf Berry,Held: Consumed at 1/4 max HP to boost a random stat by two stages.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/starf-berry.png
+Enigma Berry,Held: Consumed when struck by a super-effective attack to restore 1/4 max HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigma-berry.png
+Micle Berry,Held: Consumed at 1/4 max HP to boost accuracy of next move by 20%. (Gen IV: Perfect accuracy),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/micle-berry.png
+Custap Berry,Held: Consumed at 1/4 max HP when using a move to go first.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/custap-berry.png
+Jaboca Berry,Held: Consumed to deal 1/8 attacker's max HP when holder is struck by a physical attack.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jaboca-berry.png
+Rowap Berry,Held: Consumed to deal 1/8 attacker's max HP when holder is struck by a special attack.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rowap-berry.png
+Bright Powder,Held: Increases the holder's evasion by 1/9 (11 1/9%).,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png
+White Herb,Held: Resets all lowered stats to normal at end of turn. Consumed after use.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png
+Macho Brace,"Held: Holder gains double effort values from battles, but has halved Speed in battle.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/macho-brace.png
+Exp. Share,Held: Half the experience from a battle is split between Pokémon holding this item.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/exp-share.png
+Quick Claw,Held: Holder has a 3/16 (18.75%) chance to move first.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png
+Soothe Bell,Held: Doubles the happiness earned by the holder.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soothe-bell.png
+Mental Herb,"Held: Consumed to cure infatuation. Gen V: Also removes Taunt, Encore, Torment, Disable, and Cursed Body.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mental-herb.png
+Choice Band,"Held: Increases Attack by 50%, but restricts the holder to only one move.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png
+King’s Rock,Held: Damaging moves gain a 10% chance to make their target flinch. Traded on a Poliwhirl: Holder evolves into Politoed. Traded on a Slowpoke: Holder evolves into Slowking.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kings-rock.png
+Silver Powder,Held: Bug-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png
+Amulet Coin,Held: Doubles the money earned from a battle. Does not stack with Luck Incense.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/amulet-coin.png
+Cleanse Tag,Prevents wild encounters of level lower than your party's lead Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cleanse-tag.png
+Soul Dew,Raises Latias and Latios's Special Attack and Special Defense by 50%.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soul-dew.png
+Deep Sea Tooth,Doubles Clamperl's Special Attack. Traded on a Clamperl: Holder evolves into Huntail.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-tooth.png
+Deep Sea Scale,Doubles Clamperl's Special Defense. Traded on a Clamperl: Holder evolves into Gorebyss.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-scale.png
+Smoke Ball,Held: Allows the Holder to escape from any wild battle.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smoke-ball.png
+Everstone,Held: Prevents level-based evolution from occuring.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/everstone.png
+Focus Band,Held: Holder has 10% chance to survive attacks or self-inflicted damage at 1 HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-band.png
+Lucky Egg,Held: Increases EXP earned in battle by 50%.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-egg.png
+Scope Lens,Held: Raises the holder's critical hit ratio by one stage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png
+Metal Coat,Held: Steel-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-coat.png
+Leftovers,Held: Restores 1/16 (6.25%) holder's max HP at the end of each turn.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
+Dragon Scale,Traded on a Seadra: Holder evolves into Kingdra.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-scale.png
+Light Ball,Doubles Pikachu's Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-ball.png
+Soft Sand,Held: Ground-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soft-sand.png
+Hard Stone,Held: Rock-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png
+Miracle Seed,Held: Grass-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png
+Black Glasses,Held: Dark-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-glasses.png
+Black Belt,Held: Fighting-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-belt.png
+Magnet,Held: Electric-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magnet.png
+Mystic Water,Held: Water-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png
+Sharp Beak,Held: Flying-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharp-beak.png
+Poison Barb,Held: Poison-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png
+Never-Melt Ice,Held: Ice-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/never-melt-ice.png
+Spell Tag,Held: Ghost-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png
+Twisted Spoon,Held: Psychic-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/twisted-spoon.png
+Charcoal,Held: Fire-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charcoal.png
+Dragon Fang,Held: Dragon-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-fang.png
+Silk Scarf,Held: Normal-Type moves from holder do 20% more damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silk-scarf.png
+Upgrade,Traded on a Porygon: Holder evolves into Porygon2.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/up-grade.png
+Shell Bell,Held: Holder receives 1/8 of the damage it deals when attacking.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shell-bell.png
+Sea Incense,Held: Water-Type moves from holder do 20% more damage. Breeding: Marill or Azumarill beget an Azurill Egg.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sea-incense.png
+Lax Incense,Held: Holder's evasion is increased by 5%. Breeding: Wobbuffet begets a Wynaut Egg.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lax-incense.png
+Lucky Punch,Raises Chansey's critical hit ratio by two stages.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-punch.png
+Metal Powder,Raises Ditto's Defense and Special Defense by 50%. The boost is lost after transforming.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-powder.png
+Thick Club,Doubles Cubone or Marowak's Attack.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/thick-club.png
+Leek,Raises Farfetch'd's critical hit ratio by two stages.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stick.png
+Red Scarf,Raises the holder's Coolness while in a contest.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-scarf.png
+Blue Scarf,Raises the holder's Beauty while in a contest.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-scarf.png
+Pink Scarf,Raises the holder's Cuteness while in a contest.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-scarf.png
+Green Scarf,Raises the holder's Smartness while in a contest.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-scarf.png
+Yellow Scarf,Raises the holder's Toughness while in a contest.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-scarf.png
+Wide Lens,Held: Provides a 1/10 (10%) boost in accuracy to the holder.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wide-lens.png
+Muscle Band,Held: Boosts the damage of physical moves used by the holder by 10%.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+Wise Glasses,Held: Boosts the damage of special moves used by the holder by 1/10 (10%).,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
+Expert Belt,Held: Holder's Super Effective moves do 20% extra damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
+Light Clay,Held: Light Screen and Reflect used by the holder last 8 rounds instead of 5.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png
+Life Orb,"Held: Holder's moves inflict 30% extra damage, but cost 10% max HP.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
+Power Herb,Held: Both turns of a two-turn charge move happen at once. Consumed upon use.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-herb.png
+Toxic Orb,Held: Inflicts Toxic on the holder at the end of the turn. Activates after Poison damage would occur.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/toxic-orb.png
+Flame Orb,Held: Inflicts Burn on the holder at the end of the turn. Activates after Burn damage would occur.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-orb.png
+Quick Powder,Doubles Ditto's Speed when held. The boost is lost after transforming.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-powder.png
+Focus Sash,"Held: Holder survives any single-hit attack at 1 HP if at max HP, then the item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
+Zoom Lens,Held: Provides a 1/5 (20%) boost in accuracy if the holder moves after the target.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zoom-lens.png
+Metronome,Held: Consectutive uses of the same attack have a cumulative damage boost of 10%. Maximum 100% boost.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metronome.png
+Iron Ball,"Held: Holder's Speed is halved. Negates all Ground-type immunities, and makes Flying-types take neutral damage from Ground-type moves. Arena Trap. Spikes, and Toxic Spikes affect the holder.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron-ball.png
+Lagging Tail,Held: Holder moves last in its priority bracket.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagging-tail.png
+Destiny Knot,Held: Infatuates opposing Pokémon when holder is inflicted with infatuation.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/destiny-knot.png
+Black Sludge,Held: Poison-type holder recovers 1/16 (6.25%) max HP each turn. Non-Poison-Types take 1/8 (12.5%) max HP damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-sludge.png
+Icy Rock,Held: Hail by the holder lasts 8 rounds instead of 5.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icy-rock.png
+Smooth Rock,Held: Sandstorm by the holder lasts 8 rounds instead of 5.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smooth-rock.png
+Heat Rock,Held: Sunny Day by the holder lasts 8 rounds instead of 5.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heat-rock.png
+Damp Rock,Held: Rain Dance by the holder lasts 8 rounds instead of 5.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/damp-rock.png
+Grip Claw,Held: Holder's multi-turn trapping moves last 5 turns.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grip-claw.png
+Choice Scarf,"Held: Increases Speed by 50%, but restricts the holder to only one move.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-scarf.png
+Sticky Barb,"Held: Holder takes 1/8 (12.5%) its max HP at the end of each turn. When the holder is hit by a contact move, the attacking Pokémon takes 1/8 its max HP in damage and receive the item if not holding one.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sticky-barb.png
+Power Bracer,"Held: Holder gains 4 Attack effort values, but has halved Speed in battle.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-bracer.png
+Power Belt,"Held: Holder gains 4 Defense effort values, but has halved Speed in battle.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-belt.png
+Power Lens,"Held: Holder gains 4 Special Attack effort values, but has halved Speed in battle.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-lens.png
+Power Band,"Held: Holder gains 4 Special Defense effort values, but has halved Speed in battle.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-band.png
+Power Anklet,"Held: Holder gains 4 Speed effort values, but has halved Speed in battle.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-anklet.png
+Power Weight,"Held: Holder gains 4 HP effort values, but has halved Speed in battle.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-weight.png
+Shed Shell,Held: Holder can bypass all trapping effects and switch out. Multi-turn moves still cannot be switched out of.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shed-shell.png
+Big Root,"Held: Increases HP recovered from draining moves, Ingrain, and Aqua Ring by 3/10 (30%).",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-root.png
+Choice Specs,"Held: Increases Special Attack by 50%, but restricts the holder to only one move.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-specs.png
+Flame Plate,Held: Fire-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Fire.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-plate.png
+Splash Plate,Held: Water-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Water.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/splash-plate.png
+Zap Plate,Held: Electric-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Electric.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zap-plate.png
+Meadow Plate,Held: Grass-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Grass.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meadow-plate.png
+Icicle Plate,Held: Ice-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Ice.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icicle-plate.png
+Fist Plate,Held: Fighting-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Fighting.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fist-plate.png
+Toxic Plate,Held: Posion-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Posion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/toxic-plate.png
+Earth Plate,Held: Ground-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Ground.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/earth-plate.png
+Sky Plate,Held: Flying-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Flying.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sky-plate.png
+Mind Plate,Held: Psychic-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Psychic.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mind-plate.png
+Insect Plate,Held: Bug-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Bug.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/insect-plate.png
+Stone Plate,Held: Rock-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Rock.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stone-plate.png
+Spooky Plate,Held: Ghost-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Ghost.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spooky-plate.png
+Draco Plate,Held: Dragon-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Dragon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/draco-plate.png
+Dread Plate,Held: Dark-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Dark.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dread-plate.png
+Iron Plate,Held: Steel-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Steel.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron-plate.png
+Odd Incense,Held: Psychic-Type moves from holder do 20% more damage. Breeding: Mr. Mime begets a Mime Jr. Egg.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/odd-incense.png
+Rock Incense,Held: Rock-Type moves from holder do 20% more damage. Breeding: Sudowoodo begets a Bonsly Egg.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-incense.png
+Full Incense,Held: Holder moves last in its priority bracket. Breeding: Snorlax begets a Munchlax Egg.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-incense.png
+Wave Incense,Held: Water-Type moves from holder do 20% more damage. Breeding: Mantine begets a Mantyke Egg.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wave-incense.png
+Rose Incense,Held: Grass-Type moves from holder do 20% more damage. Breeding: Roselia or Roserade beget a Budew Egg.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rose-incense.png
+Luck Incense,Held: Doubles the money earned from a battle. Does not stack with Amulet Coin. Breeding: Chansey and Blissey beget a Happiny Egg.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luck-incense.png
+Pure Incense,Prevents wild encounters of level lower than your party's lead Pokémon. Breeding: Chimecho begets a Chingling Egg.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pure-incense.png
+Protector,Traded on a Rhydon: Holder evolves into Rhyperior.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protector.png
+Electirizer,Traded on an Electabuzz: Holder evolves into Electivire.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electirizer.png
+Magmarizer,Traded on a Magmar: Holder evolves into Magmortar.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magmarizer.png
+Dubious Disc,Traded on a Porygon2: Holder evolves into Porygon-Z.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dubious-disc.png
+Reaper Cloth,Traded on a Dusclops: Holder evolves into Dusknoir.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reaper-cloth.png
+Razor Claw,Held: Raises the holder's critical hit ratio by one stage. Held by a Sneasel while levelling up at night: Holder evolves into Weavile.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razor-claw.png
+Razor Fang,Held: Damaging moves gain a 10% chance to make their target flinch. Held by a Gligar while levelling up: Holder evolves into Gliscor.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razor-fang.png
+TM01,Teaches Hone Claws to a compatible Pokémon. (Gen IV & III: Focus Punch Gen II: DynamicPunch Gen I: Mega Punch),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM02,Teaches Dragon Claw to a compatible Pokémon. (Gen II: Headbutt Gen I: Razor Wind),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM03,Teaches Psyshock to a compatible Pokémon. (Gen IV & III: Water Pulse Gen II: Curse Gen I: Swords Dance),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM04,Teaches Calm Mind to a compatible Pokémon. (Gen II: Rollout Gen I: Whirlwind),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM05,Teaches Roar to a compatible Pokémon. (Gen I: Mega Kick),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM06,Teaches Toxic to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM07,Teaches Hail to a compatible Pokémon. (Gen II: Zap Cannon Gen I: Horn Drill),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM08,Teaches Bulk Up to a compatible Pokémon. (Gen II: Rock Smash Gen I: Body Slam),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM09,Teaches Venoshock to a compatible Pokémon. (Gen IV & III: Bullet Seed Gen II: Psych Up Gen I: Take Down),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM10,Teaches Hidden Power to a compatible Pokémon. (Gen I: Double-Edge),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM11,Teaches Sunny Day to a compatible Pokémon. (Gen I: BubbleBeam),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM12,Teaches Taunt to a compatible Pokémon. (Gen II: Sweet Scent Gen I: Water Gun),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM13,Teaches Ice Beam to a compatible Pokémon. (Gen II: Snore),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM14,Teaches Blizzard to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM15,Teaches Hyper Beam to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM16,Teaches Light Screen to a compatible Pokémon. (Gen II: Icy Wind Gen I: Pay Day),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM17,Teaches Protect to a compatible Pokémon. (Gen I: Submission),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM18,Teaches Rain Dance to a compatible Pokémon. (Gen I: Counter),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM19,Teaches Telekinesis to a compatible Pokémon. (Gen IV & III & II: Giga Drain Gen I: Seismic Toss),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM20,Teaches Safeguard to a compatible Pokémon. (Gen II: Endure Gen I: Rage),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM21,Teaches Frustration to a compatible Pokémon. (Gen I: Mega Drain),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM22,Teaches SolarBeam to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM23,Teaches Smack Down to a compatible Pokémon. (Gen IV & III & II: Iron Tail Gen I: Dragon Rage),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM24,Teaches Thunderbolt to a compatible Pokémon. (Gen II: DragonBreath),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM25,Teaches Thunder to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM26,Teaches Earthquake to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM27,Teaches Return to a compatible Pokémon. (Gen I: Fissure),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM28,Teaches Dig to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM29,Teaches Psychic to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM30,Teaches Shadow Ball to a compatible Pokémon. (Gen I: Teleport),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM31,Teaches Brick Break to a compatible Pokémon. (Gen II: Mud-Slap Gen I: Mimic),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM32,Teaches Double Team to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM33,Teaches Reflect to a compatible Pokémon. (Gen II: Ice Punch),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM34,Teaches Sludge Wave to a compatible Pokémon. (Gen IV & III: Shock Wave Gen II: Swagger Gen I: Bide),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM35,Teaches Flamethrower to a compatible Pokémon. (Gen II: Sleep Talk Gen I: Metronome),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM36,Teaches Sludge Bomb to a compatible Pokémon. (Gen I: Selfdestruct),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM37,Teaches Sandstorm to a compatible Pokémon. (Gen I: Egg Bomb),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM38,Teaches Fire Blast to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM39,Teaches Rock Tomb to a compatible Pokémon. (Gen II & I: Swift),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM40,Teaches Aerial Ace to a compatible Pokémon. (Gen II: Defense Curl Gen I: Skull Bash),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM41,Teaches Torment to a compatible Pokémon. (Gen II: ThunderPunch Gen I: Softboiled),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM42,Teaches Facade to a compatible Pokémon. (Gen II & I: Dream Eater),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM43,Teaches Flame Charge to a compatible Pokémon. (Gen IV & III: Secret Power Gen II: Detect Gen I: Sky Attack),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM44,Teaches Rest to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM45,Teaches Attract to a compatible Pokémon. (Gen I: Thunder Wave),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM46,Teaches Thief to a compatible Pokémon. (Gen I: Psywave),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM47,Teaches Low Sweep to a compatible Pokémon. (Gen IV & III & II: Steel Wing Gen I: Explosion),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM48,Teaches Round to a compatible Pokémon. (Gen IV & III: Skill Swap Gen II: Fire Punch Gen I: Rock Slide),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM49,Teaches Echoed Voice to a compatible Pokémon. (Gen IV & III: Snatch Gen II: Fury Cutter Gen I: Tri Attack),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM50,Teaches Overheat to a compatible Pokémon. (Gen II: Nightmare Gen I: Substitute),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM51,Teaches Ally Switch to a compatible Pokémon. (Gen IV: Roost),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM52,Teaches Focus Blast to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM53,Teaches Energy Ball to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM54,Teaches False Swipe to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM55,Teaches Scald to a compatible Pokémon. (Gen IV: Brine),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM56,Teaches Fling to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM57,Teaches Charge Beam to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM58,Teaches Sky Drop to a compatible Pokémon. (Gen IV: Endure),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM59,Teaches Incinerate to a compatible Pokémon. (Gen IV: Dragon Pulse),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM60,Teaches Quash to a compatible Pokémon. (Gen IV: Drain Punch),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM61,Teaches Will-O-Wisp to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM62,Teaches Acrobatics to a compatible Pokémon. (Gen IV: Silver Wind),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM63,Teaches Embargo to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM64,Teaches Explosion to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM65,Teaches Shadow Claw to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM66,Teaches Payback to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM67,Teaches Retaliate to a compatible Pokémon. (Gen IV: Recycle),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM68,Teaches Giga Impact to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM69,Teaches Rock Polish to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM70,Teaches Flash to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM71,Teaches Stone Edge to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM72,Teaches Volt Switch to a compatible Pokémon. (Gen IV: Avalanche),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM73,Teaches Thunder Wave to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM74,Teaches Gyro Ball to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM75,Teaches Swords Dance to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM76,Teaches Struggle Bug to a compatible Pokémon. (Gen IV: Stealth Rock),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM77,Teaches Psych Up to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM78,Teaches Bulldoze to a compatible Pokémon. (Gen IV: Captivate),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM79,Teaches Frost Breath to a compatible Pokémon. (Gen IV: Dark Pulse),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM80,Teaches Rock Slide to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM81,Teaches X-Scissor to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM82,Teaches Dragon Tail to a compatible Pokémon. (Gen IV: Sleep Talk),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM83,Teaches Work Up to a compatible Pokémon. (Gen IV: Natural Gift),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM84,Teaches Poison Jab to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM85,Teaches Dream Eater to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM86,Teaches Grass Knot to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM87,Teaches Swagger to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM88,Teaches Pluck to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM89,Teaches U-turn to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM90,Teaches Substitute to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM91,Teaches Flash Cannon to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM92,Teaches Trick Room to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+HM01,Teaches Cut to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png
+HM02,Teaches Fly to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png
+HM03,Teaches Surf to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png
+HM04,Teaches Strength to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png
+HM05,Teaches Waterfall to a compatible Pokémon. (HS: Whirlpool DPP: Defog Gen III & II & I: Flash),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png
+HM06,Teaches Dive to a compatible Pokémon. (Gen IV & III: Rock Smash Gen II: Whirlpool),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png
+HM07,Teaches a move to a compatible Pokémon. (Gen IV & III & II: Waterfall),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png
+,,
+Explorer Kit,Allows visiting the Underground.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/explorer-kit.png
+Loot Sack,Carries coal mine loot.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/loot-sack.png
+Rule Book,List of battle types and their rules.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rule-book.png
+Poké Radar,Use to track down rare or shiny Pokémon. 50 steps to recharge.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-radar.png
+Point Card,Keeps count of Battle Points earned.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/point-card.png
+Journal,Records prior significant activities the player took.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/journal.png
+Seal Case,Stores Seals that can be applied to Poké Ball capsules.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/seal-case.png
+Fashion Case,Holds Pokémon Accessories for use in Contests.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fashion-case.png
+Seal Bag,Holds ten Seals for Poké Balls.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/seal-bag.png
+Pal Pad,Use to record Friend Codes and check your own.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pal-pad.png
+Works Key,Grants access to Valley Windworks.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/works-key.png
+Old Charm,Trade to Cynthia's grandmother in Celestic Town for HM04 (Surf).,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-charm.png
+Galactic Key,Grants access to Galactic HQ in Veilstone City.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/galactic-key.png
+Red Chain,Used to bind Palkia and Dialga.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-chain.png
+Town Map,Use to see the overworld map.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/town-map.png
+Vs. Seeker,Allows rebattling of on-screen trainers. 100 steps to recharge.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-seeker.png
+Coin Case,Holds coins for the Game Corner.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coin-case.png
+Old Rod,Used to catch Pokémon in bodies of water.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-rod.png
+Good Rod,Used to catch Pokémon in bodies of water.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/good-rod.png
+Super Rod,Used to catch Pokémon in bodies of water.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-rod.png
+Sprayduck,Used to water berries.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sprayduck.png
+Poffin Case,Holds Poffins.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poffin-case.png
+,,
+Suite Key,Opens a locked building in the Lakeside Resort.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/suite-key.png
+Oak’s Letter,"Allows access to Seabreak path, Flower Paradise, and Shaymin.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oaks-letter.png
+Lunar Wing,Cures sailor's son of nightmares in Canalave City.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunar-wing.png
+Member Card,Allows access to Newmoon Island and Darkrai.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/member-card.png
+Azure Flute,Allows entry into the Hall of Origin. Unreleased.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/azure-flute.png
+S.S. Ticket,Ticket for a ship. (RSE: S.S. Tidal LF: S.S. Anne HG: S.S. Aqua),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ss-ticket.png
+Contest Pass,Allows participation in Pokémon Contests.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-pass.png
+Magma Stone,Magma is sealed inside.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magma-stone.png
+Parcel,Given to the trainer's rival in Jubilife City. Contains Town Maps.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/parcel.png
+Coupon 1,The first of three tickets used to obtain a Pokétch.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-1.png
+Coupon 2,The second of three tickets used to obtain a Pokétch.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-2.png
+Coupon 3,The last of three tickets used to obtain a Pokétch.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-3.png
+Storage Key,Grants access to the Team Galactic warehouse in Veilstone City.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key.png
+Secret Potion,Used to heal the Ampharos at the top of Olivine Lighthouse.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/secret-potion.png
+Griseous Orb,"Boosts the damage from Giratina's Dragon-type and Ghost-type moves by 20%, and transforms it into Origin Forme.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/griseous-orb.png
+Vs. Recorder,"Records wireless, Wi-Fi, or Battle Frontier battles, and stores points.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-recorder.png
+Gracidea,Changes an unfrozen Shaymin to Sky Forme in the day.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gracidea.png
+Secret Key,Gen IV: The key to Rotom's appliance room. Gen III: The key to Cinnabar Gym.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/secret-key.png
+Apricorn Box,Holds Apricorns.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/apricorn-box.png
+Berry Pots,Allows portable berry growing.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/berry-pots.png
+Squirt Bottle,Use on Sudowoodo blocking the path on Route 36. Also waters berries.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/squirt-bottle.png
+Lure Ball,3× effectiveness while fishing. Made from Blu Apricorn.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lure-ball.png
+Level Ball,Success rate based off of fraction target Pokémon is of user's Pokémon. Made from Red Apricorn.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/level-ball.png
+Moon Ball,4× effectiveness on familes of Pokémon with a Moon Stone evolution. Made from Ylw Apricorn.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-ball.png
+Heavy Ball,Has flat bonus or penalty to catch rate depending on weight class of target. Made from Blk Apricorn.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heavy-ball.png
+Fast Ball,4× effectiveness on Pokémon with 100 or greater base speed. (Gen II: Roaming or Fleeing Pokémon). Made from Wht Apricorn.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fast-ball.png
+Friend Ball,Caught Pokémon start with 200 happiness. Made from Grn Apricorn.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/friend-ball.png
+Love Ball,"8× effectiveness on opposite sex, same species targets of the Active Pokémon. Made from Pnk Apricorn.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/love-ball.png
+Park Ball,Catches Pokémon in the Pal Park every time.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/park-ball.png
+Sport Ball,Tries to catch a Pokémon in the Bug-Catching contest in National Park. (Gen II: Park Ball),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sport-ball.png
+Red Apricorn,Used to make a Level Ball.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-apricorn.png
+Blue Apricorn,Used to make a Lure Ball.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-apricorn.png
+Yellow Apricorn,Used to make a Moon Ball.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-apricorn.png
+Green Apricorn,Used to make a Friend Ball.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-apricorn.png
+Pink Apricorn,Used to make a Love Ball.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-apricorn.png
+White Apricorn,Used to make a Fast Ball.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-apricorn.png
+Black Apricorn,Used to make a Heavy Ball.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-apricorn.png
+Dowsing Machine,Use to find hidden items on the field. AKA Itemfinder.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dowsing-machine.png
+Rage Candy Bar,HS: Traded for TM64. Gen II & Gen V: Acts as a Potion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rage-candy-bar.png
+Red Orb,Summons Groudon to the Embedded Tower.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-orb.png
+Blue Orb,Summons Kyogre to the Embedded Tower.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-orb.png
+Jade Orb,Summons Rayquaza to the Embedded Tower.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jade-orb.png
+Enigma Stone,S: Summons Latias H: Summons Latios.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigma-stone.png
+Unown Report,Keeps track of Unown types caught.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/unown-report.png
+Blue Card,Keeps track of points from Buena's show.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-card.png
+Slowpoke Tail,A tasty tail that sells for a high price.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/slowpoke-tail.png
+Clear Bell,HS: Allows Kimono-girls to summon Ho-oh. C: Summons Suicune to the Tin Tower.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/clear-bell.png
+Card Key,HS: Opens doors in the Radio Tower. Gen III: Unlocks Silph Co Doors.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/card-key.png
+Basement Key,HS: Key to the tunnel under Goldenrod City. Gen III: Key to New Mauville.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key.png
+Red Scale,Trade to Mr. Pokémon for an Exp. Share.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-scale.png
+Lost Item,A Poké Doll lost by the Copycat who lives in Saffron City. Trade for a Pass.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lost-item.png
+Pass,Grants access to ride the Magnet Train between Goldenrod City and Saffron City.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pass.png
+Machine Part,Must be replaced in the Power Plant to power the Magnet Train.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/machine-part.png
+Silver Wing,Summons Lugia to the Whirl Islands.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-wing.png
+Rainbow Wing,Summons Ho-Oh at the top of the Bell Tower.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rainbow-wing.png
+Mystery Egg,Deliver to Professor Elm.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystery-egg.png
+GB Sounds,Use to listen to GameBoy era audio.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gb-sounds.png
+Tidal Bell,Allows Kimono-girls to summon Lugia.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tidal-bell.png
+Data Card 01,Records the number of times the trainer has come in first place overall in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 02,Records the number of times the trainer has come in last place overall in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 03,Records the number of times the trainer's Pokémon have dashed in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 04,Records the number of times the trainer's Pokémon have jumped in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 05,Records the number of times the trainer has come in first in the Pokéathlon Hurdle Dash.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 06,Records the number of times the trainer has come in first in the Pokéathlon Relay Run.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 07,Records the number of times the trainer has come in first in the Pokéathlon Pennant Capture.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 08,Records the number of times the trainer has come in first in the Pokéathlon Block Smash.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 09,Records the number of times the trainer has come in first in the Pokéathlon Disc Catch.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 10,Records the number of times the trainer has come in first in the Pokéathlon Snow Throw.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 11,Records the number of points the trainer has earned in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 12,Records the number of times the trainer's Pokémon have messed up in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 13,Records the number of times the trainer's Pokémon have defeated themselves in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 14,Records the number of times the trainer's Pokémon have tackled in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 15,Records the number of times the trainer's Pokémon have fallen in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 16,Records the number of times the trainer has come in first in the Pokéathlon Ring Drop.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 17,Records the number of times the trainer has come in first in the Pokéathlon Lamp Jump.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 18,Records the number of times the trainer has come in first in the Pokéathlon Circle Push.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 19,Records the number of times the trainer has come in first place overall in the Pokéathlon over wirelss.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 20,Records the number of times the trainer has come in last place overall in the Pokéathlon over wireless.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 21,Records the number of times the trainer has come in first across all Pokéathlon events.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 22,Records the number of times the trainer has come in last across all Pokéathlon events.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 23,Records the number of times the trainer has switched Pokémon in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 24,Records the number of times the trainer has come in first in the Pokéathlon Goal Roll.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 25,Records the number of times the trainer's Pokémon received prizes in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 26,Records the number of times the trainer has instructed Pokémon in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Data Card 27,Records the total time spent in the Pokéathlon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png
+Lock Capsule,Contains TM95 (Snarl).,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lock-capsule.png
+Photo Album,Stores photos from your adventure.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/photo-album.png
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+Mach Bike,"Faster than the Acro Bike, and can ride up sandy slopes and across cracked floors.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mach-bike.png
+Acro Bike,"More maneuverable than the Mach Bike, and allows hopping along rails.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/acro-bike.png
+Wailmer Pail,Used to water berries.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wailmer-pail.png
+,,
+Soot Sack,Stores volcanic ash from Route 113.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soot-sack.png
+,,
+Letter,A letter to Steven from the Devon Corp president.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/letter.png
+Eon Ticket,Provides access to Southern Island and Latias or Latios.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eon-ticket.png
+Scanner,Trade to Captain Stern for a DeepSeaTooth or DeepSeaScale.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scanner.png
+Go-Goggles,Allows passage through windy deserts.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/go-goggles.png
+Meteorite,FL: Deliver to Lostelle's father. RSE: Trade to Professor Cozmo for TM27 (Return).,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite.png
+,,
+,,
+,,
+,,
+Devon Scope,Allows spotting of invisible Kecleon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/devon-scope.png
+,,
+Poké Flute,"Use to awaken sleeping Pokémon, including Snorlax on roads.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-flute.png
+,,
+Gold Teeth,The Safari Zone Warden's dentures. Trade for HM04 (Strength).,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gold-teeth.png
+Lift Key,Operates the elevator in Team Rocket's Celadon Hideout.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lift-key.png
+Silph Scope,Used to identify the true forms of ghosts in Pokémon Tower.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silph-scope.png
+,,
+TM Case,Holds TMs.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-case.png
+,,
+,,
+,,
+,,
+Tea,Grants access to Saffron City.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tea.png
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+Douse Drive,"Grants Genesect a blue, Water-type Techno Blast.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/douse-drive.png
+Shock Drive,"Grants Genesect a yellow, Electric-type Techno Blast.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shock-drive.png
+Burn Drive,"Grants Genesect a red, Fire-type Techno Blast.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/burn-drive.png
+Chill Drive,"Grants Genesect a white, Ice-type Techno Blast.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chill-drive.png
+Sweet Heart,Restores 20 HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sweet-heart.png
+Greet Mail,Lets a Trainer write a message and send it via Pokémon trade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/greet-mail.png
+Favored Mail,Lets a Trainer write a message and send it via Pokémon trade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/favored-mail.png
+RSVP Mail,Lets a Trainer write a message and send it via Pokémon trade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rsvp-mail.png
+Thanks Mail,Lets a Trainer write a message and send it via Pokémon trade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/thanks-mail.png
+Inquiry Mail,Lets a Trainer write a message and send it via Pokémon trade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/inquiry-mail.png
+Like Mail,Lets a Trainer write a message and send it via Pokémon trade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/like-mail.png
+Reply Mail,Lets a Trainer write a message and send it via Pokémon trade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reply-mail.png
+Bridge Mail S,Lets a Trainer write a message and send it via Pokémon trade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bridge-mail-s.png
+Bridge Mail D,Lets a Trainer write a message and send it via Pokémon trade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bridge-mail-d.png
+Bridge Mail T,Lets a Trainer write a message and send it via Pokémon trade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bridge-mail-t.png
+Bridge Mail V,Lets a Trainer write a message and send it via Pokémon trade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bridge-mail-v.png
+Bridge Mail M,Lets a Trainer write a message and send it via Pokémon trade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bridge-mail-m.png
+Prism Scale,Traded on a Feebas: Holder evolves into Milotic.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/prism-scale.png
+Eviolite,"Held: Holder has 1.5× Defense and Special Defense, as long as it's not fully evolved.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eviolite.png
+Float Stone,Held: Holder has 0.5× weight.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/float-stone.png
+Rocky Helmet,"Held: When the holder is hit by a contact move, the attacking Pokémon takes 1/6 its max HP in damage.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rocky-helmet.png
+Air Balloon,"Held: Grants immunity to Ground-type moves, Spikes, and Toxic Spikes. Consumed when the holder takes damage from a move.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/air-balloon.png
+Red Card,"Held: When the holder takes damage from a move, the opponent switches out for another random party Pokémon. Consumed after use.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-card.png
+Ring Target,Held: Negates the holder's type immunities. Ability immunities are not removed.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ring-target.png
+Binding Band,Held: Doubles the per-turn damage of multi-turn trapping moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/binding-band.png
+Absorb Bulb,Held: Raises the holder's Special Attack by one stage when it takes Water-type damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/absorb-bulb.png
+Cell Battery,Held: Raises the holder's Attack by one stage when it takes Electric-type damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cell-battery.png
+Eject Button,"Held: When the holder takes damage from a move, it switches out for a party Pokémon of the Trainer's choice.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eject-button.png
+Fire Gem,"Held: When the holder uses a damaging fire-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fire-gem.png
+Water Gem,"Held: When the holder uses a damaging water-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/water-gem.png
+Electric Gem,"Held: When the holder uses a damaging electric-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electric-gem.png
+Grass Gem,"Held: When the holder uses a damaging grass-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grass-gem.png
+Ice Gem,"Held: When the holder uses a damaging ice-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-gem.png
+Fighting Gem,"Held: When the holder uses a damaging fighting-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fighting-gem.png
+Poison Gem,"Held: When the holder uses a damaging poison-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-gem.png
+Ground Gem,"Held: When the holder uses a damaging ground-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ground-gem.png
+Flying Gem,"Held: When the holder uses a damaging flying-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flying-gem.png
+Psychic Gem,"Held: When the holder uses a damaging psychic-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychic-gem.png
+Bug Gem,"Held: When the holder uses a damaging bug-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bug-gem.png
+Rock Gem,"Held: When the holder uses a damaging rock-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-gem.png
+Ghost Gem,"Held: When the holder uses a damaging ghost-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghost-gem.png
+Dark Gem,"Held: When the holder uses a damaging dark-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-gem.png
+Steel Gem,"Held: When the holder uses a damaging steel-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-gem.png
+Health Feather,Increases HP effort by 1.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/health-wing.png
+Muscle Feather,Increases Attack effort by 1.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-wing.png
+Resist Feather,Increases Defense effort by 1.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/resist-wing.png
+Genius Feather,Increases Special Attack effort by 1.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/genius-wing.png
+Clever Feather,Increases Special Defense effort by 1.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/clever-wing.png
+Swift Feather,Increases Speed effort by 1.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/swift-wing.png
+Pretty Feather,Sell for 100 Pokédollars.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pretty-wing.png
+Cover Fossil,Can be revived into a tirtouga.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cover-fossil.png
+Plume Fossil,Can be revived into a archen.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/plume-fossil.png
+Liberty Pass,Allows access to Liberty Garden and Victini.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/liberty-pass.png
+Pass Orb,Activates Pass Powers.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pass-orb.png
+Dream Ball,Catches Pokémon found in the Dream World.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dream-ball.png
+Poké Toy,Ends a wild battle.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-toy.png
+Prop Case,Stores props for the Pokémon Musical.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/prop-case.png
+Dragon Skull,Return to the museum in Nacrene City.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-skull.png
+Balm Mushroom,Sell to Hungry Maid for 25000 Pokédollars.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/balm-mushroom.png
+Big Nugget,Sell to Ore Collector for 30000 Pokédollars.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-nugget.png
+Pearl String,Sell to Ore Collector for 25000 Pokédollars.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl-string.png
+Comet Shard,Sell to Ore Collector for 60000 Pokédollars.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/comet-shard.png
+Relic Copper,Sell to Villa Owner for 1000 Pokédollars.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-copper.png
+Relic Silver,Sell to Villa Owner 5000 Pokédollars.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-silver.png
+Relic Gold,Sell to Villa Owner 10000 Pokédollars.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-gold.png
+Relic Vase,Sell to Villa Owner 50000 Pokédollars.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-vase.png
+Relic Band,Sell to Villa Owner for 100000 Pokédollars.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-band.png
+Relic Statue,Sell to Villa Owner 200000 Pokédollars.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-statue.png
+Relic Crown,Sell to Villa Owner for 300000 Pokédollars.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-crown.png
+Casteliacone,Cures any status ailment and confusion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/casteliacone.png
+Dire Hit 2,Raises critical hit rate by two stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit-2.png
+X Speed 2,Raises Speed by two stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-2.png
+X Sp. Atk 2,Raises Special Attack by two stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-2.png
+X Sp. Def 2,Raises Special Defense by two stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-2.png
+X Defense 2,Raises Defense by two stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-2.png
+X Attack 2,Raises Attack by two stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-2.png
+X Accuracy 2,Raises accuracy by two stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-2.png
+X Speed 3,Raises Speed by three stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-3.png
+X Sp. Atk 3,Raises Special Attack by three stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-3.png
+X Sp. Def 3,Raises Special Defense by three stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-3.png
+X Defense 3,Raises Defense by three stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-3.png
+X Attack 3,Raises Attack by three stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-3.png
+X Accuracy 3,Raises accuracy by three stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-3.png
+X Speed 6,Raises Speed by six stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-6.png
+X Sp. Atk 6,Raises Special Attack by six stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-6.png
+X Sp. Def 6,Raises Special Defense by six stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-6.png
+X Defense 6,Raises Defense by six stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-6.png
+X Attack 6,Raises Attack by six stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-6.png
+X Accuracy 6,Raises accuracy by six stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-6.png
+Ability Urge,Forcibly activates a friendly Pokémon's ability.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ability-urge.png
+Item Drop,Forces a friendly Pokémon to drop its held item.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/item-drop.png
+Item Urge,Forcibly activates a friendly Pokémon's held item.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/item-urge.png
+Reset Urge,Resets a friendly Pokémon's stat changes.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reset-urge.png
+Dire Hit 3,Raises critical hit rate by three stages in battle.  Wonder Launcher only.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit-3.png
+Light Stone,Summons Reshiram for the final battle against N.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-stone.png
+Dark Stone,Summons Zekrom for the final battle against N.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-stone.png
+TM93,Teaches Wild Charge to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM94,Teaches Rock Smash to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM95,Teaches Snarl to a compatible Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+Xtransceiver,Makes four-way video calls.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/xtransceiver.png
+,,
+Gram 1,Part of a sidequest to obtain tm89.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-1.png
+Gram 2,Part of a sidequest to obtain tm89.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-2.png
+Gram 3,Part of a sidequest to obtain tm89.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-3.png
+Dragon Gem,"Held: When the holder uses a damaging dragon-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-gem.png
+Normal Gem,"Held: When the holder uses a damaging normal-type move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normal-gem.png
+Medal Box,Holds medals recieved in the medal rally.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/medal-box.png
+DNA Splicers,"Fuses Kyurem with Reshiram or Zekrom, or splits them apart again.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers.png
+Permit,Grants access to the Nature Preserve.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/permit.png
+Oval Charm,Doubles the chance of two Pokémon producing an egg at the daycare every 255 steps.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-charm.png
+Shiny Charm,Raises the chance of finding a shiny Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shiny-charm.png
+Plasma Card,Required to progress in the Plasma Frigate.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/plasma-card.png
+Grubby Hanky,Appears in the Café Warehouse on Sunday; return to the customer with a Patrat on Thursday.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grubby-hanky.png
+Colress Machine,Wakes up the Crustle blocking the way in Seaside Cave.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colress-machine.png
+Dropped Item,Returned to Curtis or Yancy as part of a sidequest.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item.png
+Reveal Glass,"Switches Tornadus, Thundurus, and Landorus between Incarnate and Therian Forme.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reveal-glass.png
+Weakness Policy,"Held: When the holder is hit by a super effective move, its Attack and Special Attack raise by two stages.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/weakness-policy.png
+Assault Vest,Raises the holder's Special Defense to 1.5×.  Prevents the holder from selecting a status move.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/assault-vest.png
+Pixie Plate,Held: Fairy-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Fairy.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pixie-plate.png
+Ability Capsule,Switches a Pokémon between its two possible (non-Hidden) Abilities.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ability-capsule.png
+Whipped Dream,Traded on a Swirlix: Holder evolves into Slurpuff.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/whipped-dream.png
+Sachet,Traded on a Spritzee: Holder evolves into Aromatisse.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sachet.png
+Luminous Moss,"Held: If the holder is hit by a damaging Water move, raises its Special Defense by one stage.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luminous-moss.png
+Snowball,"Held: If the holder is hit by a damaging Ice move, raises its Attack by one stage.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snowball.png
+Safety Goggles,Held: Prevents damage from powder moves and the damage from Hail and Sandstorm.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/safety-goggles.png
+Rich Mulch,Increases the total number of Berries by 2.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rich-mulch.png
+Surprise Mulch,Increases the chance of Berry mutation.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/surprise-mulch.png
+Boost Mulch,Causes soil to dry out in 4 hours.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/boost-mulch.png
+Amaze Mulch,"Increases the total number of Berries by 2, increases the chance of Berry mutation, and causes soil to dry out in 4 hours.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/amaze-mulch.png
+Gengarite,Held: Allows Gengar to Mega Evolve into Mega Gengar.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gengarite.png
+Gardevoirite,Held: Allows Gardevoir to Mega Evolve into Mega Gardevoir.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gardevoirite.png
+Ampharosite,Held: Allows Ampharos to Mega Evolve into Mega Ampharos.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ampharosite.png
+Venusaurite,Held: Allows Venusaur to Mega Evolve into Mega Venusaur.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/venusaurite.png
+Charizardite X,Held: Allows Charizard to Mega Evolve into Mega Charizard X.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charizardite-x.png
+Blastoisinite,Held: Allows Blastoise to Mega Evolve into Mega Blastoise.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blastoisinite.png
+Mewtwonite X,Held: Allows Mewtwo to Mega Evolve into Mega Mewtwo X.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewtwonite-x.png
+Mewtwonite Y,Held: Allows Mewtwo to Mega Evolve into Mega Mewtwo Y.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewtwonite-y.png
+Blazikenite,Held: Allows Blaziken to Mega Evolve into Mega Blaziken.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blazikenite.png
+Medichamite,Held: Allows Medicham to Mega Evolve into Mega Medicham.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/medichamite.png
+Houndoominite,Held: Allows Houndoom to Mega Evolve into Mega Houndoom.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/houndoominite.png
+Aggronite,Held: Allows Aggron to Mega Evolve into Mega Aggron.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aggronite.png
+Banettite,Held: Allows Banette to Mega Evolve into Mega Banette.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/banettite.png
+Tyranitarite,Held: Allows Tyranitar to Mega Evolve into Mega Tyranitar.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tyranitarite.png
+Scizorite,Held: Allows Scizor to Mega Evolve into Mega Scizor.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scizorite.png
+Pinsirite,Held: Allows Pinsir to Mega Evolve into Mega Pinsir.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pinsirite.png
+Aerodactylite,Held: Allows Aerodactyl to Mega Evolve into Mega Aerodactyl.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aerodactylite.png
+Lucarionite,Held: Allows Lucario to Mega Evolve into Mega Lucario.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucarionite.png
+Abomasite,Held: Allows Abomasnow to Mega Evolve into Mega Abomasnow.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/abomasite.png
+Kangaskhanite,Held: Allows Kangaskhan to Mega Evolve into Mega Kangaskhan.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kangaskhanite.png
+Gyaradosite,Held: Allows Gyarados to Mega Evolve into Mega Gyarados.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gyaradosite.png
+Absolite,Held: Allows Absol to Mega Evolve into Mega Absol.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/absolite.png
+Charizardite Y,Held: Allows Charizard to Mega Evolve into Mega Charizard Y.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charizardite-y.png
+Alakazite,Held: Allows Alakazam to Mega Evolve into Mega Alakazam.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/alakazite.png
+Heracronite,Held: Allows Heracross to Mega Evolve into Mega Heracross.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heracronite.png
+Mawilite,Held: Allows Mawile to Mega Evolve into Mega Mawile.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mawilite.png
+Manectite,Held: Allows Manectric to Mega Evolve into Mega Manectric.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/manectite.png
+Garchompite,Held: Allows Garchomp to Mega Evolve into Mega Garchomp.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/garchompite.png
+Roseli Berry,Held: Consumed when struck by a super-effective Fairy-type attack to halve the damage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roseli-berry.png
+Kee Berry,"Held: When the holder is hit by a physical move, increases its Defense by one stage.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kee-berry.png
+Maranga Berry,"Held: When the holder is hit by a special move, increases its Special Defense by one stage.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/maranga-berry.png
+Discount Coupon,Can be used at a boutique for a 50% discount.  Consumed once used.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/discount-coupon.png
+Strange Souvenir,Vendor trash.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/strange-souvenir.png
+Lumiose Galette,Cures all major status ailments and confusion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lumiose-galette.png
+Jaw Fossil,Can be revived into a Tyrunt.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jaw-fossil.png
+Sail Fossil,Can be revived into an Amaura.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sail-fossil.png
+Fairy Gem,"Held: When the holder uses a damaging Fairy move, the move has 1.5× power and this item is consumed.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairy-gem.png
+Adventure Guide,Contains basic gameplay information.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adventure-rules.png
+Elevator Key,Unlocks the elevator in Lysandre Labs.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/elevator-key.png
+Holo Caster,Displays cutscene conversations as the plot advances.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster.png
+Honor of Kalos,"Does nothing, but signifies becoming Champion.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/honor-of-kalos.png
+Intriguing Stone,"Trade for a Sun Stone in X and Y, or Pidgeotite in Omega Ruby and Alpha Sapphire.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/intriguing-stone.png
+Lens Case,Allows the player to change their eye color.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lens-case.png
+Looker Ticket,Advances the Looker postgame plot.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/looker-ticket.png
+Mega Ring,Allows the player's Pokémon to Mega Evolve.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-ring.png
+Power Plant Pass,Permits entry to the Kalos Power Plant.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-plant-pass.png
+Prof’s Letter,Traded to the player's mom for the Town Map and a Potion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/profs-letter.png
+Roller Skates,Allows the player to move quickly and off the grid.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roller-skates.png
+Sprinklotad,Waters Berry plants.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sprinklotad.png
+TMV Pass,Permits access to Kiloude City.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tmv-pass.png
+TM96,Teaches a Pokémon TM96.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM97,Teaches a Pokémon TM97.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM98,Teaches a Pokémon TM98.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM99,Teaches a Pokémon TM99.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+TM100,Teaches a Pokémon TM100.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png
+Latiasite,Held: Allows Latias to Mega Evolve into Mega Latias.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/latiasite.png
+Latiosite,Held: Allows Latios to Mega Evolve into Mega Latios.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/latiosite.png
+Common Stone,Unknown.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/common-stone.png
+Makeup Bag,Allows the player to change their lipstick color.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/makeup-bag.png
+Travel Trunk,"Unobtainable, but allows the player to change clothes anywhere.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/travel-trunk.png
+Shalour Sable,Cures any major status ailment and confusion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shalour-sable.png
+Mega Charm,Unused Key Stone.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-charm.png
+Mega Glove,Unused NPC Key Stone.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-glove.png
+Devon Parts,Allows Captain Stern to set out on his expedition.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/devon-parts.png
+Pokéblock Kit,Creates and stores Pokéblocks.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pokeblock-kit.png
+Key to Room 1,Unlocks the door to Room 1 in Sea Mauville.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-1.png
+Key to Room 2,Unlocks the door to Room 2 in Sea Mauville.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-2.png
+Key to Room 4,Unlocks the door to Room 4 in Sea Mauville.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-4.png
+Key to Room 6,Unlocks the door to Room 6 in Sea Mauville.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-6.png
+Devon Scuba Gear,Worn by the player while underwater.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/devon-scuba-gear.png
+Contest Costume,Worn during Pokémon Contests.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-costume--jacket.png
+Magma Suit,Allows the player to ride Groudon in the Cave of Origin.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magma-suit.png
+Aqua Suit,Allows the player to ride Kyogre in the Cave of Origin.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aqua-suit.png
+Pair of Tickets,Allows the player and their mother to see the star show in the Mossdeep Space Center.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pair-of-tickets.png
+Mega Bracelet,Allows the player's Pokémon to Mega Evolve.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-bracelet.png
+Mega Pendant,Unused NPC Key Stone.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-pendant.png
+Mega Glasses,Unused NPC Key Stone.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-glasses.png
+Mega Anchor,Unused NPC Key Stone.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-anchor.png
+Mega Stickpin,Unused NPC Key Stone.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-stickpin.png
+Mega Tiara,Unused NPC Key Stone.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-tiara.png
+Mega Anklet,Unused NPC Key Stone.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-anklet.png
+Swampertite,Held: Allows Swampert to Mega Evolve into Mega Swampert.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/swampertite.png
+Sceptilite,Held: Allows Sceptile to Mega Evolve into Mega Sceptile.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sceptilite.png
+Sablenite,Held: Allows Sableye to Mega Evolve into Mega Sableye.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sablenite.png
+Altarianite,Held: Allows Altaria to Mega Evolve into Mega Altaria.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/altarianite.png
+Galladite,Held: Allows Gallade to Mega Evolve into Mega Gallade.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/galladite.png
+Audinite,Held: Allows Audino to Mega Evolve into Mega Audino.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/audinite.png
+Metagrossite,Held: Allows Metagross to Mega Evolve into Mega Metagross.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metagrossite.png
+Sharpedonite,Held: Allows Sharpedo to Mega Evolve into Mega Sharpedo.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharpedonite.png
+Slowbronite,Held: Allows Slowbro to Mega Evolve into Mega Slowbro.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/slowbronite.png
+Steelixite,Held: Allows Steelix to Mega Evolve into Mega Steelix.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelixite.png
+Pidgeotite,Held: Allows Pidgeot to Mega Evolve into Mega Pidgeot.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pidgeotite.png
+Glalitite,Held: Allows Glalie to Mega Evolve into Mega Glalie.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/glalitite.png
+Diancite,Held: Allows Diancie to Mega Evolve into Mega Diancie.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/diancite.png
+Prison Bottle,Transforms Hoopa into its Unbound form for up to three days.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/prison-bottle.png
+Mega Cuff,Unused Key Stone.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-cuff.png
+Cameruptite,Held: Allows Camerupt to Mega Evolve into Mega Camerupt.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cameruptite.png
+Lopunnite,Held: Allows Lopunny to Mega Evolve into Mega Lopunny.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lopunnite.png
+Salamencite,Held: Allows Salamence to Mega Evolve into Mega Salamence.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/salamencite.png
+Beedrillite,Held: Allows Beedrill to Mega Evolve into Mega Beedrill.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/beedrillite.png
+Key Stone,Allows the player's Pokémon to Mega Evolve.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-stone.png
+Meteorite Shard,"Causes the Meteorite to transform to its final form, allowing Rayquaza to Mega Evolve.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite-shard.png
+Eon Flute,Summons Latias or Latios for a ride.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eon-flute.png
+Normalium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Normal moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normalium-z--held.png
+Firium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Fire moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/firium-z--held.png
+Waterium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Water moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/waterium-z--held.png
+Electrium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Electric moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electrium-z--held.png
+Grassium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Grass moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassium-z--held.png
+Icium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Ice moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icium-z--held.png
+Fightinium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Fighting moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fightinium-z--held.png
+Poisonium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Poison moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poisonium-z--held.png
+Groundium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Ground moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/groundium-z--held.png
+Flyinium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Flying moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flyinium-z--held.png
+Psychium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Psychic moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychium-z--held.png
+Buginium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Bug moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/buginium-z--held.png
+Rockium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Rock moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rockium-z--held.png
+Ghostium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Ghost moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghostium-z--held.png
+Dragonium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Dragon moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragonium-z--held.png
+Darkinium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Dark moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/darkinium-z--held.png
+Steelium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Steel moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelium-z--held.png
+Fairium Z,Held: Allows a Pokémon to use the Z-move equivalents of its Fairy moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairium-z--held.png
+Pikanium Z,Held: Allows Pikachu to upgrade Volt Tackle into Catastropika.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikanium-z--held.png
+Bottle Cap,Trade to Mr. Hyper to maximize one of a Pokémon's genes.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bottle-cap.png
+Gold Bottle Cap,Trade to Mr. Hyper to maximize all of a Pokémon's genes.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gold-bottle-cap.png
+Z-Ring,Allows the player's Pokémon to use Z-moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/z-ring.png
+Decidium Z,Held: Allows Decidueye to upgrade Spirit Shackle into Sinister Arrow Raid.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/decidium-z--held.png
+Incinium Z,Held: Allows Incineroar to upgrade Darkest Lariat into Malicious Moonsault.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/incinium-z--held.png
+Primarium Z,Held: Allows Primarina to upgrade Sparkling Aria into Oceanic Operetta.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/primarium-z--held.png
+Tapunium Z,Held: Allows the Tapus to upgrade Nature's Madness into Guardian of Alola.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tapunium-z--held.png
+Marshadium Z,Held: Allows Marshadow to upgrade Spectral Thief into Soul-Stealing 7 Star Strike.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/marshadium-z--held.png
+Aloraichium Z,Held: Allows Alola Raichu to upgrade Thunderbolt into Stoked Sparksurfer.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aloraichium-z--held.png
+Snorlium Z,Held: Allows Snorlax to upgrade Giga Impact into Pulverizing Pancake.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snorlium-z--held.png
+Eevium Z,Held: Allows Eevee to upgrade Last Resort into Extreme Evoboost.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eevium-z--held.png
+Mewnium Z,Held: Allows Mew to upgrade Psychic into Genesis Supernova.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewnium-z--held.png
+Pikashunium Z,"Held: Allows cap-wearing Pikachu to upgrade Thunderbolt into 10,000,000 Volt Thunderbolt.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikashunium-z--held.png
+Forage Bag,Holds ingredients during Mallow's trial.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/forage-bag.png
+Fishing Rod,Allows the player to fish for Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fishing-rod.png
+Professor’s Mask,Lost by Professor Kukui.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/professors-mask.png
+Festival Ticket,Hosts a mission in Festival Plaza.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/festival-ticket.png
+Sparkling Stone,Required to obtain a Z-Ring.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sparkling-stone.png
+Adrenaline Orb,Makes wild Pokémon more likely to summon allies.  Held: increases the holder's Speed by one stage when affected by Intimidate.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adrenaline-orb.png
+Zygarde Cube,Contains collected Zygarde cells/cores.  Can teach Zygarde moves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zygarde-cube.png
+Ice Stone,Evolves an Alola Sandshrew into Alola Sandslash or an Alola Vulpix into Alola Ninetales.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-stone.png
+Ride Pager,Allows the player to summon a Ride Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ride-pager.png
+Beast Ball,Tries to catch a wild Pokémon.  Success rate is 5× for Ultra Beasts and 0.1× for all other Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/beast-ball.png
+Big Malasada,Cures major status ailments and confusion.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-malasada.png
+Red Nectar,Changes Oricorio to Baile Style.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-nectar.png
+Yellow Nectar,Changes Oricorio to Pom-Pom Style.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-nectar.png
+Pink Nectar,Changes Oricorio to Pa’u Style.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-nectar.png
+Purple Nectar,Changes Oricorio to Sensu Style.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/purple-nectar.png
+Sun Flute,Evolves Nebby into Solgaleo when used at the Altar of the Sunne.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sun-flute.png
+Moon Flute,Evolves Nebby into Lunala when used at the Altar of the Moone.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-flute.png
+Enigmatic Card,Unlocks Looker's motel room on Route 8.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigmatic-card.png
+Terrain Extender,Held: Extends the holder's Terrain effects to 8 turns.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/terrain-extender.png
+Protective Pads,Held: Prevents side effects of contact moves used on the holder.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protective-pads.png
+Electric Seed,Held: Consumed on Electric Terrain and raises the holder's Defense by one stage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electric-seed.png
+Psychic Seed,Held: Consumed on Psychic Terrain and raises the holder's Special Defense by one stage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychic-seed.png
+Misty Seed,Held: Consumed on Misty Terrain and raises the holder's Special Defense by one stage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/misty-seed.png
+Grassy Seed,Held: Consumed on Grassy Terrain and raises the holder's Defense by one stage.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassy-seed.png
+Fighting Memory,Held: Changes Silvally to its Fighting form.  Changes Multi-Attack's type to Fighting.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fighting-memory.png
+Flying Memory,Held: Changes Silvally to its Flying form.  Changes Multi-Attack's type to Flying.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flying-memory.png
+Poison Memory,Held: Changes Silvally to its Poison form.  Changes Multi-Attack's type to Poison.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-memory.png
+Ground Memory,Held: Changes Silvally to its Ground form.  Changes Multi-Attack's type to Ground.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ground-memory.png
+Rock Memory,Held: Changes Silvally to its Rock form.  Changes Multi-Attack's type to Rock.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-memory.png
+Bug Memory,Held: Changes Silvally to its Bug form.  Changes Multi-Attack's type to Bug.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bug-memory.png
+Ghost Memory,Held: Changes Silvally to its Ghost form.  Changes Multi-Attack's type to Ghost.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghost-memory.png
+Steel Memory,Held: Changes Silvally to its Steel form.  Changes Multi-Attack's type to Steel.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-memory.png
+Fire Memory,Held: Changes Silvally to its Fire form.  Changes Multi-Attack's type to Fire.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fire-memory.png
+Water Memory,Held: Changes Silvally to its Water form.  Changes Multi-Attack's type to Water.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/water-memory.png
+Grass Memory,Held: Changes Silvally to its Grass form.  Changes Multi-Attack's type to Grass.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grass-memory.png
+Electric Memory,Held: Changes Silvally to its Electric form.  Changes Multi-Attack's type to Electric.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electric-memory.png
+Psychic Memory,Held: Changes Silvally to its Psychic form.  Changes Multi-Attack's type to Psychic.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychic-memory.png
+Ice Memory,Held: Changes Silvally to its Ice form.  Changes Multi-Attack's type to Ice.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-memory.png
+Dragon Memory,Held: Changes Silvally to its Dragon form.  Changes Multi-Attack's type to Dragon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-memory.png
+Dark Memory,Held: Changes Silvally to its Dark form.  Changes Multi-Attack's type to Dark.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-memory.png
+Fairy Memory,Held: Changes Silvally to its Fairy form.  Changes Multi-Attack's type to Fairy.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairy-memory.png
+Bike,XXX new effect for bike--green,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bike--green.png
+Storage Key,XXX new effect for storage-key--galactic-warehouse,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key--galactic-warehouse.png
+Basement Key,XXX new effect for basement-key--goldenrod,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key--goldenrod.png
+Xtransceiver,XXX new effect for xtranceiver--red,
+Xtransceiver,XXX new effect for xtranceiver--yellow,
+DNA Splicers,XXX new effect for dna-splicers--merge,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers--merge.png
+DNA Splicers,XXX new effect for dna-splicers--split,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers--split.png
+Dropped Item,XXX new effect for dropped-item--red,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item--red.png
+Dropped Item,XXX new effect for dropped-item--yellow,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item--yellow.png
+Holo Caster,XXX new effect for holo-caster--green,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster--green.png
+Bike,XXX new effect for bike--yellow,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bike--yellow.png
+Holo Caster,XXX new effect for holo-caster--red,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster--red.png
+Basement Key,XXX new effect for basement-key--new-mauville,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key--new-mauville.png
+Storage Key,XXX new effect for storage-key--sea-mauville,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key--sea-mauville.png
+S.S. Ticket,XXX new effect for ss-ticket--hoenn,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ss-ticket--hoenn.png
+Contest Costume,XXX new effect for contest-costume--dress,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-costume--dress.png
+Meteorite,XXX new effect for meteorite--2,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--2.png
+Meteorite,XXX new effect for meteorite--3,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--3.png
+Meteorite,XXX new effect for meteorite--4,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--4.png
+Normalium Z,XXX new effect for normalium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normalium-z--bag.png
+Firium Z,XXX new effect for firium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/firium-z--bag.png
+Waterium Z,XXX new effect for waterium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/waterium-z--bag.png
+Electrium Z,XXX new effect for electrium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electrium-z--bag.png
+Grassium Z,XXX new effect for grassium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassium-z--bag.png
+Icium Z,XXX new effect for icium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icium-z--bag.png
+Fightinium Z,XXX new effect for fightinium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fightinium-z--bag.png
+Poisonium Z,XXX new effect for poisonium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poisonium-z--bag.png
+Groundium Z,XXX new effect for groundium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/groundium-z--bag.png
+Flyinium Z,XXX new effect for flyinium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flyinium-z--bag.png
+Psychium Z,XXX new effect for psychium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychium-z--bag.png
+Buginium Z,XXX new effect for buginium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/buginium-z--bag.png
+Rockium Z,XXX new effect for rockium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rockium-z--bag.png
+Ghostium Z,XXX new effect for ghostium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghostium-z--bag.png
+Dragonium Z,XXX new effect for dragonium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragonium-z--bag.png
+Darkinium Z,XXX new effect for darkinium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/darkinium-z--bag.png
+Steelium Z,XXX new effect for steelium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelium-z--bag.png
+Fairium Z,XXX new effect for fairium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairium-z--bag.png
+Pikanium Z,XXX new effect for pikanium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikanium-z--bag.png
+Decidium Z,XXX new effect for decidium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/decidium-z--bag.png
+Incinium Z,XXX new effect for incinium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/incinium-z--bag.png
+Primarium Z,XXX new effect for primarium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/primarium-z--bag.png
+Tapunium Z,XXX new effect for tapunium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tapunium-z--bag.png
+Marshadium Z,XXX new effect for marshadium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/marshadium-z--bag.png
+Aloraichium Z,XXX new effect for aloraichium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aloraichium-z--bag.png
+Snorlium Z,XXX new effect for snorlium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snorlium-z--bag.png
+Eevium Z,XXX new effect for eevium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eevium-z--bag.png
+Mewnium Z,XXX new effect for mewnium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewnium-z--bag.png
+Pikashunium Z,XXX new effect for pikashunium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikashunium-z--bag.png
+Solganium Z,XXX new effect for solganium-z--held,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/solganium-z--held.png
+Lunalium Z,XXX new effect for lunalium-z--held,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunalium-z--held.png
+Ultranecrozium Z,XXX new effect for ultranecrozium-z--held,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultranecrozium-z--held.png
+Mimikium Z,XXX new effect for mimikium-z--held,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mimikium-z--held.png
+Lycanium Z,XXX new effect for lycanium-z--held,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lycanium-z--held.png
+Kommonium Z,XXX new effect for kommonium-z--held,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kommonium-z--held.png
+Solganium Z,XXX new effect for solganium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/solganium-z--bag.png
+Lunalium Z,XXX new effect for lunalium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunalium-z--bag.png
+Ultranecrozium Z,XXX new effect for ultranecrozium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultranecrozium-z--bag.png
+Mimikium Z,XXX new effect for mimikium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mimikium-z--bag.png
+Lycanium Z,XXX new effect for lycanium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lycanium-z--bag.png
+Kommonium Z,XXX new effect for kommonium-z--bag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kommonium-z--bag.png
+Z-Power Ring,XXX new effect for z-power-ring,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/z-power-ring.png
+Pink Petal,XXX new effect for pink-petal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-petal.png
+Orange Petal,XXX new effect for orange-petal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/orange-petal.png
+Blue Petal,XXX new effect for blue-petal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-petal.png
+Red Petal,XXX new effect for red-petal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-petal.png
+Green Petal,XXX new effect for green-petal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-petal.png
+Yellow Petal,XXX new effect for yellow-petal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-petal.png
+Purple Petal,XXX new effect for purple-petal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/purple-petal.png
+Rainbow Flower,XXX new effect for rainbow-flower,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rainbow-flower.png
+Surge Badge,XXX new effect for surge-badge,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/surge-badge.png
+N-Solarizer,XXX new effect for n-solarizer--merge,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-solarizer--merge.png
+N-Lunarizer,XXX new effect for n-lunarizer--merge,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-lunarizer--merge.png
+N-Solarizer,XXX new effect for n-solarizer--split,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-solarizer--split.png
+N-Lunarizer,XXX new effect for n-lunarizer--split,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-lunarizer--split.png
+Ilima Normalium Z,XXX new effect for ilimas-normalium-z,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ilimas-normalium-z.png
+Left Poké Ball,XXX new effect for left-poke-ball,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/left-poke-ball.png
+Roto Hatch,XXX new effect for roto-hatch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-hatch.png
+Roto Bargain,XXX new effect for roto-bargain,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-bargain.png
+Roto Prize Money,XXX new effect for roto-prize-money,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-prize-money.png
+Roto Exp. Points,XXX new effect for roto-exp-points,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-exp-points.png
+Roto Friendship,XXX new effect for roto-friendship,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-friendship.png
+Roto Encounter,XXX new effect for roto-encounter,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-encounter.png
+Roto Stealth,XXX new effect for roto-stealth,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-stealth.png
+Roto HP Restore,XXX new effect for roto-hp-restore,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-hp-restore.png
+Roto PP Restore,XXX new effect for roto-pp-restore,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-pp-restore.png
+Roto Boost,XXX new effect for roto-boost,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-boost.png
+Roto Catch,XXX new effect for roto-catch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-catch.png
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

@@ -19,3 +19,827 @@ Wing Attack,Inflicts regular damage with no additional effect.,100,flying,60,35
 Whirlwind,Immediately ends wild battles.  Forces trainers to switch Pokémon.,,normal,,20
 Fly,"User flies high into the air, dodging all attacks, and hits next turn.",95,flying,90,15
 Bind,Prevents the target from fleeing and inflicts damage for 2-5 turns.,85,normal,15,20
+Slam,Inflicts regular damage with no additional effect.,75,normal,80,20
+Vine Whip,Inflicts regular damage with no additional effect.,100,grass,45,25
+Stomp,Has a $effect_chance% chance to make the target flinch.,100,normal,65,20
+Double Kick,Hits twice in one turn.,100,fighting,30,30
+Mega Kick,Inflicts regular damage with no additional effect.,75,normal,120,5
+Jump Kick,"If the user misses, it takes half the damage it would have inflicted in recoil.",95,fighting,100,10
+Rolling Kick,Has a $effect_chance% chance to make the target flinch.,85,fighting,60,15
+Sand Attack,Lowers the target's accuracy by one stage.,100,ground,,15
+Headbutt,Has a $effect_chance% chance to make the target flinch.,100,normal,70,15
+Horn Attack,Inflicts regular damage with no additional effect.,100,normal,65,25
+Fury Attack,Hits 2-5 times in one turn.,85,normal,15,20
+Horn Drill,Causes a one-hit KO.,30,normal,,5
+Tackle,Inflicts regular damage with no additional effect.,100,normal,40,35
+Body Slam,Has a $effect_chance% chance to paralyze the target.,100,normal,85,15
+Wrap,Prevents the target from fleeing and inflicts damage for 2-5 turns.,90,normal,15,20
+Take Down,User receives 1/4 the damage it inflicts in recoil.,85,normal,90,20
+Thrash,"Hits every turn for 2-3 turns, then confuses the user.",100,normal,120,10
+Double-Edge,User receives 1/3 the damage inflicted in recoil.,100,normal,120,15
+Tail Whip,Lowers the target's Defense by one stage.,100,normal,,30
+Poison Sting,Has a $effect_chance% chance to poison the target.,100,poison,15,35
+Twineedle,Hits twice in the same turn.  Has a $effect_chance% chance to poison the target.,100,bug,25,20
+Pin Missile,Hits 2-5 times in one turn.,95,bug,25,20
+Leer,Lowers the target's Defense by one stage.,100,normal,,30
+Bite,Has a $effect_chance% chance to make the target flinch.,100,dark,60,25
+Growl,Lowers the target's Attack by one stage.,100,normal,,40
+Roar,Immediately ends wild battles.  Forces trainers to switch Pokémon.,,normal,,20
+Sing,Puts the target to sleep.,55,normal,,15
+Supersonic,Confuses the target.,55,normal,,20
+Sonic Boom,Inflicts 20 points of damage.,90,normal,,20
+Disable,Disables the target's last used move for 1-8 turns.,100,normal,,20
+Acid,Has a $effect_chance% chance to lower the target's Special Defense by one stage.,100,poison,40,30
+Ember,Has a $effect_chance% chance to burn the target.,100,fire,40,25
+Flamethrower,Has a $effect_chance% chance to burn the target.,100,fire,90,15
+Mist,Protects the user's stats from being changed by enemy moves.,,ice,,30
+Water Gun,Inflicts regular damage with no additional effect.,100,water,40,25
+Hydro Pump,Inflicts regular damage with no additional effect.,80,water,110,5
+Surf,Inflicts regular damage and can hit Dive users.,100,water,90,15
+Ice Beam,Has a $effect_chance% chance to freeze the target.,100,ice,90,10
+Blizzard,Has a $effect_chance% chance to freeze the target.,70,ice,110,5
+Psybeam,Has a $effect_chance% chance to confuse the target.,100,psychic,65,20
+Bubble Beam,Has a $effect_chance% chance to lower the target's Speed by one stage.,100,water,65,20
+Aurora Beam,Has a $effect_chance% chance to lower the target's Attack by one stage.,100,ice,65,20
+Hyper Beam,User foregoes its next turn to recharge.,90,normal,150,5
+Peck,Inflicts regular damage with no additional effect.,100,flying,35,35
+Drill Peck,Inflicts regular damage with no additional effect.,100,flying,80,20
+Submission,User receives 1/4 the damage it inflicts in recoil.,80,fighting,80,20
+Low Kick,"Inflicts more damage to heavier targets, with a maximum of 120 power.",100,fighting,,20
+Counter,Inflicts twice the damage the user received from the last physical hit it took.,100,fighting,,20
+Seismic Toss,Inflicts damage equal to the user's level.,100,fighting,,20
+Strength,Inflicts regular damage with no additional effect.,100,normal,80,15
+Absorb,Drains half the damage inflicted to heal the user.,100,grass,20,25
+Mega Drain,Drains half the damage inflicted to heal the user.,100,grass,40,15
+Leech Seed,"Seeds the target, stealing HP from it every turn.",90,grass,,10
+Growth,Raises the user's Attack and Special Attack by one stage.,,normal,,20
+Razor Leaf,Has an increased chance for a critical hit.,95,grass,55,25
+Solar Beam,Requires a turn to charge before attacking.,100,grass,120,10
+Poison Powder,Poisons the target.,75,poison,,35
+Stun Spore,Paralyzes the target.,75,grass,,30
+Sleep Powder,Puts the target to sleep.,75,grass,,15
+Petal Dance,"Hits every turn for 2-3 turns, then confuses the user.",100,grass,120,10
+String Shot,Lowers the target's Speed by two stages.,95,bug,,40
+Dragon Rage,Inflicts 40 points of damage.,100,dragon,,10
+Fire Spin,Prevents the target from fleeing and inflicts damage for 2-5 turns.,85,fire,35,15
+Thunder Shock,Has a $effect_chance% chance to paralyze the target.,100,electric,40,30
+Thunderbolt,Has a $effect_chance% chance to paralyze the target.,100,electric,90,15
+Thunder Wave,Paralyzes the target.,90,electric,,20
+Thunder,Has a $effect_chance% chance to paralyze the target.,70,electric,110,10
+Rock Throw,Inflicts regular damage with no additional effect.,90,rock,50,15
+Earthquake,Inflicts regular damage and can hit Dig users.,100,ground,100,10
+Fissure,Causes a one-hit KO.,30,ground,,5
+Dig,"User digs underground, dodging all attacks, and hits next turn.",100,ground,80,10
+Toxic,"Badly poisons the target, inflicting more damage every turn.",90,poison,,10
+Confusion,Has a $effect_chance% chance to confuse the target.,100,psychic,50,25
+Psychic,Has a $effect_chance% chance to lower the target's Special Defense by one stage.,100,psychic,90,10
+Hypnosis,Puts the target to sleep.,60,psychic,,20
+Meditate,Raises the user's Attack by one stage.,,psychic,,40
+Agility,Raises the user's Speed by two stages.,,psychic,,30
+Quick Attack,Inflicts regular damage with no additional effect.,100,normal,40,30
+Rage,"If the user is hit after using this move, its Attack rises by one stage.",100,normal,20,20
+Teleport,Immediately ends wild battles.  No effect otherwise.,,psychic,,20
+Night Shade,Inflicts damage equal to the user's level.,100,ghost,,15
+Mimic,Copies the target's last used move.,,normal,,10
+Screech,Lowers the target's Defense by two stages.,85,normal,,40
+Double Team,Raises the user's evasion by one stage.,,normal,,15
+Recover,Heals the user by half its max HP.,,normal,,10
+Harden,Raises the user's Defense by one stage.,,normal,,30
+Minimize,Raises the user's evasion by two stages.,,normal,,10
+Smokescreen,Lowers the target's accuracy by one stage.,100,normal,,20
+Confuse Ray,Confuses the target.,100,ghost,,10
+Withdraw,Raises the user's Defense by one stage.,,water,,40
+Defense Curl,Raises user's Defense by one stage.,,normal,,40
+Barrier,Raises the user's Defense by two stages.,,psychic,,20
+Light Screen,Reduces damage from special attacks by 50% for five turns.,,psychic,,30
+Haze,"Resets all Pokémon's stats, accuracy, and evasion.",,ice,,30
+Reflect,Reduces damage from physical attacks by half.,,psychic,,20
+Focus Energy,Increases the user's chance to score a critical hit.,,normal,,30
+Bide,"User waits for two turns, then hits back for twice the damage it took.",,normal,,10
+Metronome,Randomly selects and uses any move in the game.,,normal,,10
+Mirror Move,Uses the target's last used move.,,flying,,20
+Self-Destruct,User faints.,100,normal,200,5
+Egg Bomb,Inflicts regular damage with no additional effect.,75,normal,100,10
+Lick,Has a $effect_chance% chance to paralyze the target.,100,ghost,30,30
+Smog,Has a $effect_chance% chance to poison the target.,70,poison,30,20
+Sludge,Has a $effect_chance% chance to poison the target.,100,poison,65,20
+Bone Club,Has a $effect_chance% chance to make the target flinch.,85,ground,65,20
+Fire Blast,Has a $effect_chance% chance to burn the target.,85,fire,110,5
+Waterfall,Has a $effect_chance% chance to make the target flinch.,100,water,80,15
+Clamp,Prevents the target from fleeing and inflicts damage for 2-5 turns.,85,water,35,15
+Swift,Never misses.,,normal,60,20
+Skull Bash,Raises the user's Defense by one stage.  User charges for one turn before attacking.,100,normal,130,10
+Spike Cannon,Hits 2-5 times in one turn.,100,normal,20,15
+Constrict,Has a $effect_chance% chance to lower the target's Speed by one stage.,100,normal,10,35
+Amnesia,Raises the user's Special Defense by two stages.,,psychic,,20
+Kinesis,Lowers the target's accuracy by one stage.,80,psychic,,15
+Soft-Boiled,Heals the user by half its max HP.,,normal,,10
+High Jump Kick,"If the user misses, it takes half the damage it would have inflicted in recoil.",90,fighting,130,10
+Glare,Paralyzes the target.,100,normal,,30
+Dream Eater,Only works on sleeping Pokémon.  Drains half the damage inflicted to heal the user.,100,psychic,100,15
+Poison Gas,Poisons the target.,90,poison,,40
+Barrage,Hits 2-5 times in one turn.,85,normal,15,20
+Leech Life,Drains half the damage inflicted to heal the user.,100,bug,80,10
+Lovely Kiss,Puts the target to sleep.,75,normal,,10
+Sky Attack,User charges for one turn before attacking.  Has a $effect_chance% chance to make the target flinch.,90,flying,140,5
+Transform,User becomes a copy of the target until it leaves battle.,,normal,,10
+Bubble,Has a $effect_chance% chance to lower the target's Speed by one stage.,100,water,40,30
+Dizzy Punch,Has a $effect_chance% chance to confuse the target.,100,normal,70,10
+Spore,Puts the target to sleep.,100,grass,,15
+Flash,Lowers the target's accuracy by one stage.,100,normal,,20
+Psywave,Inflicts damage between 50% and 150% of the user's level.,100,psychic,,15
+Splash,Does nothing.,,normal,,40
+Acid Armor,Raises the user's Defense by two stages.,,poison,,20
+Crabhammer,Has an increased chance for a critical hit.,90,water,100,10
+Explosion,User faints.,100,normal,250,5
+Fury Swipes,Hits 2-5 times in one turn.,80,normal,18,15
+Bonemerang,Hits twice in one turn.,90,ground,50,10
+Rest,"User sleeps for two turns, completely healing itself.",,psychic,,10
+Rock Slide,Has a $effect_chance% chance to make the target flinch.,90,rock,75,10
+Hyper Fang,Has a $effect_chance% chance to make the target flinch.,90,normal,80,15
+Sharpen,Raises the user's Attack by one stage.,,normal,,30
+Conversion,User's type changes to the type of one of its moves at random.,,normal,,30
+Tri Attack,"Has a $effect_chance% chance to burn, freeze, or paralyze the target.",100,normal,80,10
+Super Fang,Inflicts damage equal to half the target's HP.,90,normal,,10
+Slash,Has an increased chance for a critical hit.,100,normal,70,20
+Substitute,"Transfers 1/4 of the user's max HP into a doll, protecting the user from further damage or status changes until it breaks.",,normal,,10
+Struggle,User takes 1/4 its max HP in recoil.,,normal,50,1
+Sketch,Permanently becomes the target's last used move.,,normal,,1
+Triple Kick,"Hits three times, increasing power by 100% with each successful hit.",90,fighting,10,10
+Thief,Takes the target's item.,100,dark,60,25
+Spider Web,Prevents the target from leaving battle.,,bug,,10
+Mind Reader,Ensures that the user's next move will hit the target.,,normal,,5
+Nightmare,Target loses 1/4 its max HP every turn as long as it's asleep.,100,ghost,,15
+Flame Wheel,Has a $effect_chance% chance to burn the target.  Lets frozen Pokémon thaw themselves.,100,fire,60,25
+Snore,Has a $effect_chance% chance to make the target flinch.  Only works if the user is sleeping.,100,normal,50,15
+Curse,Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense.,,ghost,,10
+Flail,"Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.",100,normal,,15
+Conversion 2,Changes the user's type to a random type either resistant or immune to the last move used against it.,,normal,,30
+Aeroblast,Has an increased chance for a critical hit.,95,flying,100,5
+Cotton Spore,Lowers the target's Speed by two stages.,100,grass,,40
+Reversal,"Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.",100,fighting,,15
+Spite,Lowers the PP of the target's last used move by 4.,100,ghost,,10
+Powder Snow,Has a $effect_chance% chance to freeze the target.,100,ice,40,25
+Protect,Prevents any moves from hitting the user this turn.,,normal,,10
+Mach Punch,Inflicts regular damage with no additional effect.,100,fighting,40,30
+Scary Face,Lowers the target's Speed by two stages.,100,normal,,10
+Feint Attack,Never misses.,,dark,60,20
+Sweet Kiss,Confuses the target.,75,fairy,,10
+Belly Drum,User pays half its max HP to max out its Attack.,,normal,,10
+Sludge Bomb,Has a $effect_chance% chance to poison the target.,100,poison,90,10
+Mud-Slap,Has a $effect_chance% chance to lower the target's accuracy by one stage.,100,ground,20,10
+Octazooka,Has a $effect_chance% chance to lower the target's accuracy by one stage.,85,water,65,10
+Spikes,"Scatters Spikes, hurting opposing Pokémon that switch in.",,ground,,20
+Zap Cannon,Has a $effect_chance% chance to paralyze the target.,50,electric,120,5
+Foresight,"Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it's a Ghost.",,normal,,40
+Destiny Bond,"If the user faints this turn, the target automatically will, too.",,ghost,,5
+Perish Song,User and target both faint after three turns.,,normal,,5
+Icy Wind,Has a $effect_chance% chance to lower the target's Speed by one stage.,95,ice,55,15
+Detect,Prevents any moves from hitting the user this turn.,,fighting,,5
+Bone Rush,Hits 2-5 times in one turn.,90,ground,25,10
+Lock-On,Ensures that the user's next move will hit the target.,,normal,,5
+Outrage,"Hits every turn for 2-3 turns, then confuses the user.",100,dragon,120,10
+Sandstorm,Changes the weather to a sandstorm for five turns.,,rock,,10
+Giga Drain,Drains half the damage inflicted to heal the user.,100,grass,75,10
+Endure,Prevents the user's HP from lowering below 1 this turn.,,normal,,10
+Charm,Lowers the target's Attack by two stages.,100,fairy,,20
+Rollout,"Power doubles every turn this move is used in succession after the first, resetting after five turns.",90,rock,30,20
+False Swipe,Cannot lower the target's HP below 1.,100,normal,40,40
+Swagger,Raises the target's Attack by two stages and confuses the target.,85,normal,,15
+Milk Drink,Heals the user by half its max HP.,,normal,,10
+Spark,Has a $effect_chance% chance to paralyze the target.,100,electric,65,20
+Fury Cutter,"Power doubles every turn this move is used in succession after the first, maxing out after five turns.",95,bug,40,20
+Steel Wing,Has a $effect_chance% chance to raise the user's Defense by one stage.,90,steel,70,25
+Mean Look,Prevents the target from leaving battle.,,normal,,5
+Attract,"Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user.",100,normal,,15
+Sleep Talk,Randomly uses one of the user's other three moves.  Only works if the user is sleeping.,,normal,,10
+Heal Bell,Cures the entire party of major status effects.,,normal,,5
+Return,"Power increases with happiness, up to a maximum of 102.",100,normal,,20
+Present,Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP.,90,normal,,15
+Frustration,"Power increases as happiness decreases, up to a maximum of 102.",100,normal,,20
+Safeguard,Protects the user's field from major status ailments and confusion for five turns.,,normal,,25
+Pain Split,Sets the user's and targets's HP to the average of their current HP.,,normal,,20
+Sacred Fire,Has a $effect_chance% chance to burn the target.  Lets frozen Pokémon thaw themselves.,95,fire,100,5
+Magnitude,Power varies randomly from 10 to 150.,100,ground,,30
+Dynamic Punch,Has a $effect_chance% chance to confuse the target.,50,fighting,100,5
+Megahorn,Inflicts regular damage with no additional effect.,85,bug,120,10
+Dragon Breath,Has a $effect_chance% chance to paralyze the target.,100,dragon,60,20
+Baton Pass,Allows the trainer to switch out the user and pass effects along to its replacement.,,normal,,40
+Encore,Forces the target to repeat its last used move every turn for 2 to 6 turns.,100,normal,,5
+Pursuit,"Has double power against, and can hit, Pokémon attempting to switch out.",100,dark,40,20
+Rapid Spin,"Frees the user from binding moves, removes Leech Seed, and blows away Spikes.",100,normal,50,40
+Sweet Scent,Lowers the target's evasion by one stage.,100,normal,,20
+Iron Tail,Has a $effect_chance% chance to lower the target's Defense by one stage.,75,steel,100,15
+Metal Claw,Has a $effect_chance% chance to raise the user's Attack by one stage.,95,steel,50,35
+Vital Throw,Never misses.,,fighting,70,10
+Morning Sun,Heals the user by half its max HP.  Affected by weather.,,normal,,5
+Synthesis,Heals the user by half its max HP.  Affected by weather.,,grass,,5
+Moonlight,Heals the user by half its max HP.  Affected by weather.,,fairy,,5
+Hidden Power,Power and type depend upon user's IVs.  Power can range from 30 to 70.,100,normal,60,15
+Cross Chop,Has an increased chance for a critical hit.,80,fighting,100,5
+Twister,Has a $effect_chance% chance to make the target flinch.,100,dragon,40,20
+Rain Dance,Changes the weather to rain for five turns.,,water,,5
+Sunny Day,Changes the weather to sunny for five turns.,,fire,,5
+Crunch,Has a $effect_chance% chance to lower the target's Defense by one stage.,100,dark,80,15
+Mirror Coat,Inflicts twice the damage the user received from the last special hit it took.,100,psychic,,20
+Psych Up,Discards the user's stat changes and copies the target's.,,normal,,10
+Extreme Speed,Inflicts regular damage with no additional effect.,100,normal,80,5
+Ancient Power,Has a $effect_chance% chance to raise all of the user's stats by one stage.,100,rock,60,5
+Shadow Ball,Has a $effect_chance% chance to lower the target's Special Defense by one stage.,100,ghost,80,15
+Future Sight,Hits the target two turns later.,100,psychic,120,10
+Rock Smash,Has a $effect_chance% chance to lower the target's Defense by one stage.,100,fighting,40,15
+Whirlpool,Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns.,85,water,35,15
+Beat Up,Hits once for every conscious Pokémon the trainer has.,100,dark,,10
+Fake Out,Can only be used as the first move after the user enters battle.  Causes the target to flinch.,100,normal,40,10
+Uproar,Forced to use this move for several turns.  Pokémon cannot fall asleep in that time.,100,normal,90,10
+Stockpile,Stores energy up to three times for use with Spit Up and Swallow.,,normal,,20
+Spit Up,Power is 100 times the amount of energy Stockpiled.,100,normal,,10
+Swallow,"Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles.",,normal,,10
+Heat Wave,Has a $effect_chance% chance to burn the target.,90,fire,95,10
+Hail,Changes the weather to a hailstorm for five turns.,,ice,,10
+Torment,Prevents the target from using the same move twice in a row.,100,dark,,15
+Flatter,Raises the target's Special Attack by one stage and confuses the target.,100,dark,,15
+Will-O-Wisp,Burns the target.,85,fire,,15
+Memento,Lowers the target's Attack and Special Attack by two stages.  User faints.,100,dark,,10
+Facade,"Power doubles if user is burned, paralyzed, or poisoned.",100,normal,70,20
+Focus Punch,"If the user takes damage before attacking, the attack is canceled.",100,fighting,150,20
+Smelling Salts,"If the target is paralyzed, inflicts double damage and cures the paralysis.",100,normal,70,10
+Follow Me,Redirects the target's single-target effects to the user for this turn.,,normal,,20
+Nature Power,Uses a move which depends upon the terrain.,,normal,,20
+Charge,Raises the user's Special Defense by one stage.  User's Electric moves have doubled power next turn.,,electric,,20
+Taunt,"For the next few turns, the target can only use damaging moves.",100,dark,,20
+Helping Hand,Ally's next move inflicts half more damage.,,normal,,20
+Trick,User and target swap items.,100,psychic,,10
+Role Play,Copies the target's ability.,,psychic,,10
+Wish,User will recover half its max HP at the end of the next turn.,,normal,,10
+Assist,Randomly selects and uses one of the trainer's other Pokémon's moves.,,normal,,20
+Ingrain,Prevents the user from leaving battle.  User regains 1/16 of its max HP every turn.,,grass,,20
+Superpower,Lowers the user's Attack and Defense by one stage after inflicting damage.,100,fighting,120,5
+Magic Coat,Reflects back the first effect move used on the user this turn.,,psychic,,15
+Recycle,User recovers the item it last used up.,,normal,,10
+Revenge,Inflicts double damage if the user takes damage before attacking this turn.,100,fighting,60,10
+Brick Break,Destroys Reflect and Light Screen.,100,fighting,75,15
+Yawn,Target sleeps at the end of the next turn.,,normal,,10
+Knock Off,Target drops its held item.,100,dark,65,20
+Endeavor,Lowers the target's HP to equal the user's.,100,normal,,5
+Eruption,"Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.",100,fire,150,5
+Skill Swap,User and target swap abilities.,,psychic,,10
+Imprison,Prevents the target from using any moves that the user also knows.,,psychic,,10
+Refresh,"Cleanses the user of a burn, paralysis, or poison.",,normal,,20
+Grudge,"If the user faints this turn, the PP of the move that fainted it drops to 0.",,ghost,,5
+Snatch,"Steals the target's move, if it's self-targeted.",,dark,,10
+Secret Power,Has a $effect_chance% chance to inflict a status effect which depends upon the terrain.,100,normal,70,20
+Dive,"User dives underwater, dodging all attacks, and hits next turn.",100,water,80,10
+Arm Thrust,Hits 2-5 times in one turn.,100,fighting,15,20
+Camouflage,User's type changes to match the terrain.,,normal,,20
+Tail Glow,Raises the user's Special Attack by three stages.,,bug,,20
+Luster Purge,Has a $effect_chance% chance to lower the target's Special Defense by one stage.,100,psychic,70,5
+Mist Ball,Has a $effect_chance% chance to lower the target's Special Attack by one stage.,100,psychic,70,5
+Feather Dance,Lowers the target's Attack by two stages.,100,flying,,15
+Teeter Dance,Confuses the target.,100,normal,,20
+Blaze Kick,Has an increased chance for a critical hit and a $effect_chance% chance to burn the target.,90,fire,85,10
+Mud Sport,Halves all Electric-type damage.,,ground,,15
+Ice Ball,"Power doubles every turn this move is used in succession after the first, resetting after five turns.",90,ice,30,20
+Needle Arm,Has a $effect_chance% chance to make the target flinch.,100,grass,60,15
+Slack Off,Heals the user by half its max HP.,,normal,,10
+Hyper Voice,Inflicts regular damage with no additional effect.,100,normal,90,10
+Poison Fang,Has a $effect_chance% chance to badly poison the target.,100,poison,50,15
+Crush Claw,Has a $effect_chance% chance to lower the target's Defense by one stage.,95,normal,75,10
+Blast Burn,User foregoes its next turn to recharge.,90,fire,150,5
+Hydro Cannon,User foregoes its next turn to recharge.,90,water,150,5
+Meteor Mash,Has a $effect_chance% chance to raise the user's Attack by one stage.,90,steel,90,10
+Astonish,Has a $effect_chance% chance to make the target flinch.,100,ghost,30,15
+Weather Ball,"If there be weather, this move has doubled power and the weather's type.",100,normal,50,10
+Aromatherapy,Cures the entire party of major status effects.,,grass,,5
+Fake Tears,Lowers the target's Special Defense by two stages.,100,dark,,20
+Air Cutter,Has an increased chance for a critical hit.,95,flying,60,25
+Overheat,Lowers the user's Special Attack by two stages after inflicting damage.,90,fire,130,5
+Odor Sleuth,"Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it's a Ghost.",,normal,,40
+Rock Tomb,Has a $effect_chance% chance to lower the target's Speed by one stage.,95,rock,60,15
+Silver Wind,Has a $effect_chance% chance to raise all of the user's stats by one stage.,100,bug,60,5
+Metal Sound,Lowers the target's Special Defense by two stages.,85,steel,,40
+Grass Whistle,Puts the target to sleep.,55,grass,,15
+Tickle,Lowers the target's Attack and Defense by one stage.,100,normal,,20
+Cosmic Power,Raises the user's Defense and Special Defense by one stage.,,psychic,,20
+Water Spout,"Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.",100,water,150,5
+Signal Beam,Has a $effect_chance% chance to confuse the target.,100,bug,75,15
+Shadow Punch,Never misses.,,ghost,60,20
+Extrasensory,Has a $effect_chance% chance to make the target flinch.,100,psychic,80,20
+Sky Uppercut,Inflicts regular damage and can hit Bounce and Fly users.,90,fighting,85,15
+Sand Tomb,Prevents the target from fleeing and inflicts damage for 2-5 turns.,85,ground,35,15
+Sheer Cold,Causes a one-hit KO.,30,ice,,5
+Muddy Water,Has a $effect_chance% chance to lower the target's accuracy by one stage.,85,water,90,10
+Bullet Seed,Hits 2-5 times in one turn.,100,grass,25,30
+Aerial Ace,Never misses.,,flying,60,20
+Icicle Spear,Hits 2-5 times in one turn.,100,ice,25,30
+Iron Defense,Raises the user's Defense by two stages.,,steel,,15
+Block,Prevents the target from leaving battle.,,normal,,5
+Howl,Raises the user's Attack by one stage.,,normal,,40
+Dragon Claw,Inflicts regular damage with no additional effect.,100,dragon,80,15
+Frenzy Plant,User foregoes its next turn to recharge.,90,grass,150,5
+Bulk Up,Raises the user's Attack and Defense by one stage.,,fighting,,20
+Bounce,"User bounces high into the air, dodging all attacks, and hits next turn.",85,flying,85,5
+Mud Shot,Has a $effect_chance% chance to lower the target's Speed by one stage.,95,ground,55,15
+Poison Tail,Has an increased chance for a critical hit and a $effect_chance% chance to poison the target.,100,poison,50,25
+Covet,Takes the target's item.,100,normal,60,25
+Volt Tackle,User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to paralyze the target.,100,electric,120,15
+Magical Leaf,Never misses.,,grass,60,20
+Water Sport,Halves all Fire-type damage.,,water,,15
+Calm Mind,Raises the user's Special Attack and Special Defense by one stage.,,psychic,,20
+Leaf Blade,Has an increased chance for a critical hit.,100,grass,90,15
+Dragon Dance,Raises the user's Attack and Speed by one stage.,,dragon,,20
+Rock Blast,Hits 2-5 times in one turn.,90,rock,25,10
+Shock Wave,Never misses.,,electric,60,20
+Water Pulse,Has a $effect_chance% chance to confuse the target.,100,water,60,20
+Doom Desire,Hits the target two turns later.,100,steel,140,5
+Psycho Boost,Lowers the user's Special Attack by two stages after inflicting damage.,90,psychic,140,5
+Roost,Heals the user by half its max HP.,,flying,,10
+Gravity,Disables moves and immunities that involve flying or levitating for five turns.,,psychic,,5
+Miracle Eye,"Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it's Dark.",,psychic,,40
+Wake-Up Slap,"If the target is asleep, has double power and wakes it up.",100,fighting,70,10
+Hammer Arm,Lowers user's Speed by one stage.,90,fighting,100,10
+Gyro Ball,"Power raises when the user has lower Speed, up to a maximum of 150.",100,steel,,5
+Healing Wish,User faints.  Its replacement has its HP fully restored and any major status effect removed.,,psychic,,10
+Brine,Has double power against Pokémon that have less than half their max HP remaining.,100,water,65,10
+Natural Gift,Power and type depend on the held berry.,100,normal,,15
+Feint,Hits through Protect and Detect.,100,normal,30,10
+Pluck,"If target has a berry, inflicts double damage and uses the berry.",100,flying,60,20
+Tailwind,"For three turns, friendly Pokémon have doubled Speed.",,flying,,15
+Acupressure,Raises one of a friendly Pokémon's stats at random by two stages.,,normal,,30
+Metal Burst,Strikes back at the last Pokémon to hit the user this turn with 1.5× the damage.,100,steel,,10
+U-turn,User must switch out after attacking.,100,bug,70,20
+Close Combat,Lowers the user's Defense and Special Defense by one stage after inflicting damage.,100,fighting,120,5
+Payback,Power is doubled if the target has already moved this turn.,100,dark,50,10
+Assurance,Power is doubled if the target has already received damage this turn.,100,dark,60,10
+Embargo,Target cannot use held items.,100,dark,,15
+Fling,Throws held item at the target; power depends on the item.,100,dark,,10
+Psycho Shift,Transfers the user's major status effect to the target.,100,psychic,,10
+Trump Card,"Power increases when this move has less PP, up to a maximum of 200.",,normal,,5
+Heal Block,Prevents target from restoring its HP for five turns.,100,psychic,,15
+Wring Out,"Power increases against targets with more HP remaining, up to a maximum of 121 power.",100,normal,,5
+Power Trick,User swaps Attack and Defense.,,psychic,,10
+Gastro Acid,Nullifies target's ability until it leaves battle.,100,poison,,10
+Lucky Chant,Prevents the target from scoring critical hits for five turns.,,normal,,30
+Me First,"Uses the target's move against it before it attacks, with power increased by half.",,normal,,20
+Copycat,Uses the target's last used move.,,normal,,20
+Power Swap,User swaps Attack and Special Attack changes with the target.,,psychic,,10
+Guard Swap,User swaps Defense and Special Defense changes with the target.,,psychic,,10
+Punishment,"Power increases against targets with more raised stats, up to a maximum of 200.",100,dark,,5
+Last Resort,Can only be used after all of the user's other moves have been used.,100,normal,140,5
+Worry Seed,Changes the target's ability to Insomnia.,100,grass,,10
+Sucker Punch,Only works if the target is about to use a damaging move.,100,dark,70,5
+Toxic Spikes,"Scatters poisoned spikes, poisoning opposing Pokémon that switch in.",,poison,,20
+Heart Swap,User and target swap stat changes.,,psychic,,10
+Aqua Ring,Restores 1/16 of the user's max HP each turn.,,water,,20
+Magnet Rise,User is immune to Ground moves and effects for five turns.,,electric,,10
+Flare Blitz,User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to burn the target.,100,fire,120,15
+Force Palm,Has a $effect_chance% chance to paralyze the target.,100,fighting,60,10
+Aura Sphere,Never misses.,,fighting,80,20
+Rock Polish,Raises the user's Speed by two stages.,,rock,,20
+Poison Jab,Has a $effect_chance% chance to poison the target.,100,poison,80,20
+Dark Pulse,Has a $effect_chance% chance to make the target flinch.,100,dark,80,15
+Night Slash,Has an increased chance for a critical hit.,100,dark,70,15
+Aqua Tail,Inflicts regular damage with no additional effect.,90,water,90,10
+Seed Bomb,Inflicts regular damage with no additional effect.,100,grass,80,15
+Air Slash,Has a $effect_chance% chance to make the target flinch.,95,flying,75,15
+X-Scissor,Inflicts regular damage with no additional effect.,100,bug,80,15
+Bug Buzz,Has a $effect_chance% chance to lower the target's Special Defense by one stage.,100,bug,90,10
+Dragon Pulse,Inflicts regular damage with no additional effect.,100,dragon,85,10
+Dragon Rush,Has a $effect_chance% chance to make the target flinch.,75,dragon,100,10
+Power Gem,Inflicts regular damage with no additional effect.,100,rock,80,20
+Drain Punch,Drains half the damage inflicted to heal the user.,100,fighting,75,10
+Vacuum Wave,Inflicts regular damage with no additional effect.,100,fighting,40,30
+Focus Blast,Has a $effect_chance% chance to lower the target's Special Defense by one stage.,70,fighting,120,5
+Energy Ball,Has a $effect_chance% chance to lower the target's Special Defense by one stage.,100,grass,90,10
+Brave Bird,User receives 1/3 the damage inflicted in recoil.,100,flying,120,15
+Earth Power,Has a $effect_chance% chance to lower the target's Special Defense by one stage.,100,ground,90,10
+Switcheroo,User and target swap items.,100,dark,,10
+Giga Impact,User foregoes its next turn to recharge.,90,normal,150,5
+Nasty Plot,Raises the user's Special Attack by two stages.,,dark,,20
+Bullet Punch,Inflicts regular damage with no additional effect.,100,steel,40,30
+Avalanche,Inflicts double damage if the user takes damage before attacking this turn.,100,ice,60,10
+Ice Shard,Inflicts regular damage with no additional effect.,100,ice,40,30
+Shadow Claw,Has an increased chance for a critical hit.,100,ghost,70,15
+Thunder Fang,Has a $effect_chance% chance to paralyze the target and a $effect_chance% chance to make the target flinch.,95,electric,65,15
+Ice Fang,Has a $effect_chance% chance to freeze the target and a $effect_chance% chance to make the target flinch.,95,ice,65,15
+Fire Fang,Has a $effect_chance% chance to burn the target and a $effect_chance% chance to make the target flinch.,95,fire,65,15
+Shadow Sneak,Inflicts regular damage with no additional effect.,100,ghost,40,30
+Mud Bomb,Has a $effect_chance% chance to lower the target's accuracy by one stage.,85,ground,65,10
+Psycho Cut,Has an increased chance for a critical hit.,100,psychic,70,20
+Zen Headbutt,Has a $effect_chance% chance to make the target flinch.,90,psychic,80,15
+Mirror Shot,Has a $effect_chance% chance to lower the target's accuracy by one stage.,85,steel,65,10
+Flash Cannon,Has a $effect_chance% chance to lower the target's Special Defense by one stage.,100,steel,80,10
+Rock Climb,Has a $effect_chance% chance to confuse the target.,85,normal,90,20
+Defog,Lowers the target's evasion by one stage.  Removes field effects from the enemy field.,,flying,,15
+Trick Room,"For five turns, slower Pokémon will act before faster Pokémon.",,psychic,,5
+Draco Meteor,Lowers the user's Special Attack by two stages after inflicting damage.,90,dragon,130,5
+Discharge,Has a $effect_chance% chance to paralyze the target.,100,electric,80,15
+Lava Plume,Has a $effect_chance% chance to burn the target.,100,fire,80,15
+Leaf Storm,Lowers the user's Special Attack by two stages after inflicting damage.,90,grass,130,5
+Power Whip,Inflicts regular damage with no additional effect.,85,grass,120,10
+Rock Wrecker,User foregoes its next turn to recharge.,90,rock,150,5
+Cross Poison,Has an increased chance for a critical hit and a $effect_chance% chance to poison the target.,100,poison,70,20
+Gunk Shot,Has a $effect_chance% chance to poison the target.,80,poison,120,5
+Iron Head,Has a $effect_chance% chance to make the target flinch.,100,steel,80,15
+Magnet Bomb,Never misses.,,steel,60,20
+Stone Edge,Has an increased chance for a critical hit.,80,rock,100,5
+Captivate,Lowers the target's Special Attack by two stages if it's the opposite gender.,100,normal,,20
+Stealth Rock,Causes damage when opposing Pokémon switch in.,,rock,,20
+Grass Knot,"Inflicts more damage to heavier targets, with a maximum of 120 power.",100,grass,,20
+Chatter,Has a higher chance to confuse the target when the recorded sound is louder.,100,flying,65,20
+Judgment,"If the user is holding a appropriate plate or drive, the damage inflicted will match it.",100,normal,100,10
+Bug Bite,"If target has a berry, inflicts double damage and uses the berry.",100,bug,60,20
+Charge Beam,Has a $effect_chance% chance to raise the user's Special Attack by one stage.,90,electric,50,10
+Wood Hammer,User receives 1/3 the damage inflicted in recoil.,100,grass,120,15
+Aqua Jet,Inflicts regular damage with no additional effect.,100,water,40,20
+Attack Order,Has an increased chance for a critical hit.,100,bug,90,15
+Defend Order,Raises the user's Defense and Special Defense by one stage.,,bug,,10
+Heal Order,Heals the user by half its max HP.,,bug,,10
+Head Smash,User receives 1/2 the damage inflicted in recoil.,80,rock,150,5
+Double Hit,Hits twice in one turn.,90,normal,35,10
+Roar of Time,User foregoes its next turn to recharge.,90,dragon,150,5
+Spacial Rend,Has an increased chance for a critical hit.,95,dragon,100,5
+Lunar Dance,"User faints, and its replacement is fully healed.",,psychic,,10
+Crush Grip,"Power increases against targets with more HP remaining, up to a maximum of 121 power.",100,normal,,5
+Magma Storm,Prevents the target from fleeing and inflicts damage for 2-5 turns.,75,fire,100,5
+Dark Void,Puts the target to sleep.,50,dark,,10
+Seed Flare,Has a $effect_chance% chance to lower the target's Special Defense by two stages.,85,grass,120,5
+Ominous Wind,Has a $effect_chance% chance to raise all of the user's stats by one stage.,100,ghost,60,5
+Shadow Force,"User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect.",100,ghost,120,5
+Hone Claws,Raises the user's Attack and accuracy by one stage.,,dark,,15
+Wide Guard,Prevents any multi-target moves from hitting friendly Pokémon this turn.,,rock,,10
+Guard Split,Averages Defense and Special Defense with the target.,,psychic,,10
+Power Split,Averages Attack and Special Attack with the target.,,psychic,,10
+Wonder Room,All Pokémon's Defense and Special Defense are swapped for 5 turns.,,psychic,,10
+Psyshock,"Inflicts damage based on the target's Defense, not Special Defense.",100,psychic,80,10
+Venoshock,Inflicts double damage if the target is Poisoned.,100,poison,65,10
+Autotomize,Raises the user's Speed by two stages and halves the user's weight.,,steel,,15
+Rage Powder,Redirects the target's single-target effects to the user for this turn.,,bug,,20
+Telekinesis,Moves have 100% accuracy against the target for three turns.,,psychic,,15
+Magic Room,Negates held items for five turns.,,psychic,,10
+Smack Down,Removes any immunity to Ground damage.,100,rock,50,15
+Storm Throw,Always scores a critical hit.,100,fighting,60,10
+Flame Burst,Deals splash damage to Pokémon next to the target.,100,fire,70,15
+Sludge Wave,Has a $effect_chance% chance to poison the target.,100,poison,95,10
+Quiver Dance,"Raises the user's Special Attack, Special Defense, and Speed by one stage each.",,bug,,20
+Heavy Slam,"Power is higher when the user weighs more than the target, up to a maximum of 120.",100,steel,,10
+Synchronoise,Hits any Pokémon that shares a type with the user.,100,psychic,120,10
+Electro Ball,"Power is higher when the user has greater Speed than the target, up to a maximum of 150.",100,electric,,10
+Soak,Changes the target's type to Water.,100,water,,20
+Flame Charge,Inflicts regular damage.  Raises the user's Speed by one stage.,100,fire,50,20
+Coil,"Raises the user's Attack, Defense, and accuracy by one stage each.",,poison,,20
+Low Sweep,Lowers the target's Speed by one stage.,100,fighting,65,20
+Acid Spray,Lowers the target's Special Defense by two stages.,100,poison,40,20
+Foul Play,Calculates damage with the target's attacking stat.,100,dark,95,15
+Simple Beam,Changes the target's ability to Simple.,100,normal,,15
+Entrainment,Copies the user's ability onto the target.,100,normal,,15
+After You,Makes the target act next this turn.,,normal,,15
+Round,Has double power if it's used more than once per turn.,100,normal,60,15
+Echoed Voice,"Power increases by 100% for each consecutive use by any friendly Pokémon, to a maximum of 200.",100,normal,40,15
+Chip Away,Ignores the target's stat modifiers.,100,normal,70,20
+Clear Smog,Removes all of the target's stat modifiers.,,poison,50,15
+Stored Power,"Power is higher the more the user's stats have been raised, to a maximum of 31×.",100,psychic,20,10
+Quick Guard,Prevents any priority moves from hitting friendly Pokémon this turn.,,fighting,,15
+Ally Switch,User switches places with the friendly Pokémon opposite it.,,psychic,,15
+Scald,Has a $effect_chance% chance to burn the target.,100,water,80,15
+Shell Smash,"Raises user's Attack, Special Attack, and Speed by two stages.  Lower user's Defense and Special Defense by one stage.",,normal,,15
+Heal Pulse,Heals the target for half its max HP.,,psychic,,10
+Hex,Has double power if the target has a major status ailment.,100,ghost,65,10
+Sky Drop,"Carries the target high into the air, dodging all attacks against either, and drops it next turn.",100,flying,60,10
+Shift Gear,Raises the user's Attack by one stage and its Speed by two stages.,,steel,,10
+Circle Throw,Ends wild battles.  Forces trainers to switch Pokémon.,90,fighting,60,10
+Incinerate,Destroys the target's held berry.,100,fire,60,15
+Quash,Makes the target act last this turn.,100,dark,,15
+Acrobatics,Has double power if the user has no held item.,100,flying,55,15
+Reflect Type,User becomes the target's type.,,normal,,15
+Retaliate,Has double power if a friendly Pokémon fainted last turn.,100,normal,70,5
+Final Gambit,Inflicts damage equal to the user's remaining HP.  User faints.,100,fighting,,5
+Bestow,Gives the user's held item to the target.,,normal,,15
+Inferno,Has a $effect_chance% chance to burn the target.,50,fire,100,5
+Water Pledge,"With Grass Pledge, halves opposing Pokémon's Speed for four turns.",100,water,80,10
+Fire Pledge,"With Water Pledge, doubles the effect chance of friendly Pokémon's moves for four turns.",100,fire,80,10
+Grass Pledge,"With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns.",100,grass,80,10
+Volt Switch,User must switch out after attacking.,100,electric,70,20
+Struggle Bug,Has a $effect_chance% chance to lower the target's Special Attack by one stage.,100,bug,50,20
+Bulldoze,Has a $effect_chance% chance to lower the target's Speed by one stage.,100,ground,60,20
+Frost Breath,Always scores a critical hit.,90,ice,60,10
+Dragon Tail,Ends wild battles.  Forces trainers to switch Pokémon.,90,dragon,60,10
+Work Up,Raises the user's Attack and Special Attack by one stage each.,,normal,,30
+Electroweb,Lowers the target's Speed by one stage.,95,electric,55,15
+Wild Charge,User receives 1/4 the damage it inflicts in recoil.,100,electric,90,15
+Drill Run,Has an increased chance for a critical hit.,95,ground,80,10
+Dual Chop,Hits twice in one turn.,90,dragon,40,15
+Heart Stamp,Has a $effect_chance% chance to make the target flinch.,100,psychic,60,25
+Horn Leech,Drains half the damage inflicted to heal the user.,100,grass,75,10
+Sacred Sword,Ignores the target's stat modifiers.,100,fighting,90,15
+Razor Shell,Has a $effect_chance% chance to lower the target's Defense by one stage.,95,water,75,10
+Heat Crash,"Power is higher when the user weighs more than the target, up to a maximum of 120.",100,fire,,10
+Leaf Tornado,Has a $effect_chance% chance to lower the target's accuracy by one stage.,90,grass,65,10
+Steamroller,Has a $effect_chance% chance to make the target flinch.,100,bug,65,20
+Cotton Guard,Raises the user's Defense by three stages.,,grass,,10
+Night Daze,Has a $effect_chance% chance to lower the target's accuracy by one stage.,95,dark,85,10
+Psystrike,"Inflicts damage based on the target's Defense, not Special Defense.",100,psychic,100,10
+Tail Slap,Hits 2-5 times in one turn.,85,normal,25,10
+Hurricane,Has a $effect_chance% chance to confuse the target.,70,flying,110,10
+Head Charge,User receives 1/4 the damage it inflicts in recoil.,100,normal,120,15
+Gear Grind,Hits twice in one turn.,85,steel,50,15
+Searing Shot,Has a $effect_chance% chance to burn the target.,100,fire,100,5
+Techno Blast,"If the user is holding a appropriate plate or drive, the damage inflicted will match it.",100,normal,120,5
+Relic Song,Has a $effect_chance% chance to put the target to sleep.,100,normal,75,10
+Secret Sword,"Inflicts damage based on the target's Defense, not Special Defense.",100,fighting,85,10
+Glaciate,Lowers the target's Speed by one stage.,95,ice,65,10
+Bolt Strike,Has a $effect_chance% chance to paralyze the target.,85,electric,130,5
+Blue Flare,Has a $effect_chance% chance to burn the target.,85,fire,130,5
+Fiery Dance,Has a $effect_chance% chance to raise the user's Special Attack by one stage.,100,fire,80,10
+Freeze Shock,Requires a turn to charge before attacking.  Has a $effect_chance% chance to paralyze the target.,90,ice,140,5
+Ice Burn,Requires a turn to charge before attacking.  Has a $effect_chance% chance to burn the target.,90,ice,140,5
+Snarl,Has a $effect_chance% chance to lower the target's Special Attack by one stage.,95,dark,55,15
+Icicle Crash,Has a $effect_chance% chance to make the target flinch.,90,ice,85,10
+V-create,"Lowers the user's Defense, Special Defense, and Speed by one stage each.",95,fire,180,5
+Fusion Flare,"With Fusion Bolt, inflicts double damage.",100,fire,100,5
+Fusion Bolt,"With Fusion Flare, inflicts double damage.",100,electric,100,5
+Flying Press,Deals both fighting and flying-type damage.,95,fighting,100,10
+Mat Block,Protects all friendly Pokémon from damaging moves.  Only works on the first turn after the user is sent out.,,fighting,,10
+Belch,Can only be used after the user has eaten a berry.,90,poison,120,10
+Rototiller,Raises the Attack and Special Attack of all grass Pokémon in battle.,,ground,,10
+Sticky Web,"Covers the opposing field, lowering opponents' Speed by one stage upon switching in.",,bug,,20
+Fell Stinger,Raises the user's Attack by two stages if it KOs the target.,100,bug,50,25
+Phantom Force,"User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect.",100,ghost,90,10
+Trick-or-Treat,Adds ghost to the target's types.,100,ghost,,20
+Noble Roar,Lowers the target's Attack and Special Attack by one stage.,100,normal,,30
+Ion Deluge,Changes all normal moves to electric moves for the rest of the turn.,,electric,,25
+Parabolic Charge,Heals the user for half the total damage dealt to all targets.,100,electric,65,20
+Forest’s Curse,Adds grass to the target's types.,100,grass,,20
+Petal Blizzard,Inflicts regular damage.,100,grass,90,15
+Freeze-Dry,Super-effective against water.,100,ice,70,20
+Disarming Voice,Never misses.,,fairy,40,15
+Parting Shot,Lowers all targets' Attack and Special Attack by one stage.  Makes the user switch out.,100,dark,,20
+Topsy-Turvy,Inverts the target's stat modifiers.,,dark,,20
+Draining Kiss,Drains 75% of the damage inflicted to heal the user.,100,fairy,50,10
+Crafty Shield,Protects all friendly Pokémon from non-damaging moves.,,fairy,,10
+Flower Shield,Raises the Defense of all grass Pokémon in battle.,,fairy,,10
+Grassy Terrain,"For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their grass moves to 1.5× their power.",,grass,,10
+Misty Terrain,"For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming dragon moves.",,fairy,,10
+Electrify,Changes the target's move's type to electric if it hasn't moved yet this turn.,,electric,,20
+Play Rough,Has a $effect_chance% chance to lower the target's Attack by one stage.,90,fairy,90,10
+Fairy Wind,Inflicts regular damage with no additional effect.,100,fairy,40,30
+Moonblast,Has a $effect_chance% chance to lower the target's Special Attack by one stage.,100,fairy,95,15
+Boomburst,Inflicts regular damage.,100,normal,140,10
+Fairy Lock,Prevents all Pokémon from fleeing or switching out during the next turn.,,fairy,,10
+King’s Shield,Blocks damaging attacks and lowers attacking Pokémon's Attack by two stages on contact.  Switches Aegislash to Shield Forme.,,steel,,10
+Play Nice,Lowers the target's Attack by one stage.,,normal,,20
+Confide,Lowers the target's Special Attack by one stage.,,normal,,20
+Diamond Storm,Has a $effect_chance% chance to raise the user's Defense by two stages for each target hit.,95,rock,100,5
+Steam Eruption,Has a $effect_chance% chance to burn the target.,95,water,110,5
+Hyperspace Hole,Ignores and destroys protection effects.,,psychic,80,5
+Water Shuriken,Hits 2–5 times.,100,water,15,20
+Mystical Fire,Has a $effect_chance% chance to lower the target's Special Attack by one stage.,100,fire,75,10
+Spiky Shield,Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP.,,grass,,10
+Aromatic Mist,Raises a selected ally's Special Defense by one stage.,,fairy,,20
+Eerie Impulse,Lowers the target's Special Attack by two stages.,100,electric,,15
+Venom Drench,"Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned.",100,poison,,20
+Powder,"Explodes if the target uses a fire move this turn, damaging it for 1/4 its max HP and preventing the move.",100,bug,,20
+Geomancy,"Takes one turn to charge, then raises the user's Special Attack, Special Defense, and Speed by two stages.",,fairy,,10
+Magnetic Flux,Raises the Defense and Special Defense of all friendly Pokémon with plus or minus by one stage.,,electric,,20
+Happy Hour,Doubles prize money.,,normal,,30
+Electric Terrain,"For five turns, prevents all Pokémon on the ground from sleeping and strengthens their electric moves to 1.5× their power.",,electric,,10
+Dazzling Gleam,Inflicts regular damage with no additional effect.,100,fairy,80,10
+Celebrate,Does nothing.,,normal,,40
+Hold Hands,Does nothing.,,normal,,40
+Baby-Doll Eyes,Lowers the target's Attack by one stage.,100,fairy,,30
+Nuzzle,Has a $effect_chance% chance to paralyze the target.,100,electric,20,20
+Hold Back,Cannot lower the target's HP below 1.,100,normal,40,40
+Infestation,Prevents the target from fleeing and inflicts damage for 2-5 turns.,100,bug,20,20
+Power-Up Punch,Raises the user's Attack by one stage after inflicting damage.,100,fighting,40,20
+Oblivion Wing,Drains 75% of the damage inflicted to heal the user.,100,flying,80,10
+Thousand Arrows,"Grounds the target, and hits even Flying-type or levitating Pokémon.",100,ground,90,10
+Thousand Waves,Prevents the target from leaving battle.,100,ground,90,10
+Land’s Wrath,Inflicts regular damage with no additional effect.,100,ground,90,10
+Light of Ruin,User receives 1/2 the damage inflicted in recoil.,90,fairy,140,5
+Origin Pulse,Inflicts regular damage with no additional effect.,85,water,110,10
+Precipice Blades,Inflicts regular damage with no additional effect.,85,ground,120,10
+Dragon Ascent,Lowers the user's Defense and Special Defense by one stage after inflicting damage.,100,flying,120,5
+Hyperspace Fury,Ignores and destroys protection effects.,,dark,100,5
+Breakneck Blitz,Inflicts regular damage with no additional effect.,,normal,,1
+Breakneck Blitz,Inflicts regular damage with no additional effect.,,normal,,1
+All-Out Pummeling,Inflicts regular damage with no additional effect.,,fighting,,1
+All-Out Pummeling,Inflicts regular damage with no additional effect.,,fighting,,1
+Supersonic Skystrike,Inflicts regular damage with no additional effect.,,flying,,1
+Supersonic Skystrike,Inflicts regular damage with no additional effect.,,flying,,1
+Acid Downpour,Inflicts regular damage with no additional effect.,,poison,,1
+Acid Downpour,Inflicts regular damage with no additional effect.,,poison,,1
+Tectonic Rage,Inflicts regular damage with no additional effect.,,ground,,1
+Tectonic Rage,Inflicts regular damage with no additional effect.,,ground,,1
+Continental Crush,Inflicts regular damage with no additional effect.,,rock,,1
+Continental Crush,Inflicts regular damage with no additional effect.,,rock,,1
+Savage Spin-Out,Inflicts regular damage with no additional effect.,,bug,,1
+Savage Spin-Out,Inflicts regular damage with no additional effect.,,bug,,1
+Never-Ending Nightmare,Inflicts regular damage with no additional effect.,,ghost,,1
+Never-Ending Nightmare,Inflicts regular damage with no additional effect.,,ghost,,1
+Corkscrew Crash,Inflicts regular damage with no additional effect.,,steel,,1
+Corkscrew Crash,Inflicts regular damage with no additional effect.,,steel,,1
+Inferno Overdrive,Inflicts regular damage with no additional effect.,,fire,,1
+Inferno Overdrive,Inflicts regular damage with no additional effect.,,fire,,1
+Hydro Vortex,Inflicts regular damage with no additional effect.,,water,,1
+Hydro Vortex,Inflicts regular damage with no additional effect.,,water,,1
+Bloom Doom,Inflicts regular damage with no additional effect.,,grass,,1
+Bloom Doom,Inflicts regular damage with no additional effect.,,grass,,1
+Gigavolt Havoc,Inflicts regular damage with no additional effect.,,electric,,1
+Gigavolt Havoc,Inflicts regular damage with no additional effect.,,electric,,1
+Shattered Psyche,Inflicts regular damage with no additional effect.,,psychic,,1
+Shattered Psyche,Inflicts regular damage with no additional effect.,,psychic,,1
+Subzero Slammer,Inflicts regular damage with no additional effect.,,ice,,1
+Subzero Slammer,Inflicts regular damage with no additional effect.,,ice,,1
+Devastating Drake,Inflicts regular damage with no additional effect.,,dragon,,1
+Devastating Drake,Inflicts regular damage with no additional effect.,,dragon,,1
+Black Hole Eclipse,Inflicts regular damage with no additional effect.,,dark,,1
+Black Hole Eclipse,Inflicts regular damage with no additional effect.,,dark,,1
+Twinkle Tackle,Inflicts regular damage with no additional effect.,,fairy,,1
+Twinkle Tackle,Inflicts regular damage with no additional effect.,,fairy,,1
+Catastropika,Inflicts regular damage with no additional effect.,,electric,210,1
+Shore Up,"Heals the user for ½ its max HP, or ⅔ during a sandstorm.",,ground,,10
+First Impression,Can only be used as the first move after the user enters battle.,100,bug,90,10
+Baneful Bunker,Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it.,,poison,,10
+Spirit Shackle,Traps the target.,100,ghost,80,10
+Darkest Lariat,Ignores the target's stat modifiers.,100,dark,85,10
+Sparkling Aria,Cures the target of burns.,100,water,90,10
+Ice Hammer,Lowers user's Speed by one stage.,90,ice,100,10
+Floral Healing,"Heals the target for ½ its max HP, or ⅔ on Grassy Terrain.",,fairy,,10
+High Horsepower,Inflicts regular damage with no additional effect.,95,ground,95,10
+Strength Sap,Heals the user by the target's current Attack stat and lowers the target's Attack by one stage.,100,grass,,10
+Solar Blade,Requires a turn to charge before attacking.,100,grass,125,10
+Leafage,Inflicts regular damage with no additional effect.,100,grass,40,40
+Spotlight,Forces the target's opponents to aim at the target for the rest of the turn.,,normal,,15
+Toxic Thread,Poisons the target and lowers its Speed by one stage.,100,poison,,20
+Laser Focus,Guarantees a critical hit with the user's next move.,,normal,,30
+Gear Up,Raises the Attack and Special Attack of all friendly Pokémon with plus or minus by one stage.,,steel,,20
+Throat Chop,Prevents the target from using sound-based moves for two turns.,100,dark,80,15
+Pollen Puff,"Damages opponents, but heals allies for 50% of their max HP.",100,bug,90,15
+Anchor Shot,Traps the target.,100,steel,80,20
+Psychic Terrain,Protects Pokémon on the ground from priority moves and increases the power of their  Psychic moves by 50%.,,psychic,,10
+Lunge,Lowers the target's Attack by one stage after inflicting damage.,100,bug,80,15
+Fire Lash,Lowers the target's Defense by one stage after inflicting damage.,100,fire,80,15
+Power Trip,"Power is higher the more the user's stats have been raised, to a maximum of 31×.",100,dark,20,10
+Burn Up,Removes the user's fire type after inflicting damage.,100,fire,130,5
+Speed Swap,Exchanges the user's Speed with the target's.,,psychic,,10
+Smart Strike,Never misses.,,steel,70,10
+Purify,Cures the target of a major status ailment and heals the user for 50% of its max HP.,,poison,,20
+Revelation Dance,Has the same type as the user.,100,normal,90,15
+Core Enforcer,Nullifies the target's ability if it moves earlier.,100,dragon,100,10
+Trop Kick,Lowers the target's Attack by one stage after inflicting damage.,100,grass,70,15
+Instruct,Forces the target to repeat its last used move.,,psychic,,15
+Beak Blast,Inflicts a burn on any Pokémon that makes contact before the attack.,100,flying,100,15
+Clanging Scales,Lowers the user's Defense by one stage after inflicting damage.,100,dragon,110,5
+Dragon Hammer,Inflicts regular damage with no additional effect.,100,dragon,90,15
+Brutal Swing,Inflicts regular damage with no additional effect.,100,dark,60,20
+Aurora Veil,"Reduces damage five turns, but must be used during hail.",,ice,,20
+Sinister Arrow Raid,Inflicts regular damage with no additional effect.,,ghost,180,1
+Malicious Moonsault,Inflicts regular damage with no additional effect.,,dark,180,1
+Oceanic Operetta,Inflicts regular damage with no additional effect.,,water,195,1
+Guardian of Alola,Damages the target for 75% of its remaining HP.,,fairy,,1
+Soul-Stealing 7-Star Strike,Inflicts regular damage with no additional effect.,,ghost,195,1
+Stoked Sparksurfer,Has a $effect_chance% chance to paralyze the target.,,electric,175,1
+Pulverizing Pancake,Inflicts regular damage with no additional effect.,,normal,210,1
+Extreme Evoboost,Raises all of the user's stats by two stages.,,normal,,1
+Genesis Supernova,Changes the terrain to Psychic Terrain after inflicting damage.,,psychic,185,1
+Shell Trap,Only inflicts damage if the user was hit by a physical move this turn.,100,fire,150,5
+Fleur Cannon,Lowers the user's Special Attack by two stages after inflicting damage.,90,fairy,130,5
+Psychic Fangs,Destroys Reflect and Light Screen.,100,psychic,85,10
+Stomping Tantrum,Has double power if the user's last move failed.,100,ground,75,10
+Shadow Bone,Has a $effect_chance% chance to lower the target's Defense by one stage.,100,ghost,85,10
+Accelerock,Inflicts regular damage with no additional effect.,100,rock,40,20
+Liquidation,Has a $effect_chance% chance to lower the target's Defense by one stage.,100,water,85,10
+Prismatic Laser,User foregoes its next turn to recharge.,100,psychic,160,10
+Spectral Thief,"Steals the target's stat increases, then inflicts damage.",100,ghost,90,10
+Sunsteel Strike,Cannot be disrupted by abilities.,100,steel,100,5
+Moongeist Beam,Cannot be disrupted by abilities.,100,ghost,100,5
+Tearful Look,Lowers the target's Attack and Special Attack by one stage.,,normal,,20
+Zing Zap,Has a $effect_chance% chance to make the target flinch.,100,electric,80,10
+Nature’s Madness,Inflicts damage equal to half the target's HP.,90,fairy,,10
+Multi-Attack,"If the user is holding a appropriate plate or drive, the damage inflicted will match it.",100,normal,120,10
+"10,000,000 Volt Thunderbolt",Inflicts regular damage with no additional effect.,,electric,195,1
+Mind Blown,"Inflicts damage, and the user takes damage equal to half of its max HP, rounded up.",100,fire,150,5
+Plasma Fists,Inflicts regular damage with no additional effect.,100,electric,100,15
+Photon Geyser,Inflicts regular damage with no additional effect.,100,psychic,100,5
+Light That Burns the Sky,"Inflicts damage using either Attack or Special Attack stat, whichever is higher.",,psychic,200,1
+Searing Sunraze Smash,Cannot be disrupted by abilities.,,steel,200,1
+Menacing Moonraze Maelstrom,Cannot be disrupted by abilities.,,ghost,200,1
+Let’s Snuggle Forever,"After inflicting damage, causes all Normal-type moves to become Electric-type for the remainder of the turn.",,fairy,190,1
+Splintered Stormshards,Inflicts damage and removes any terrain present on the battlefield.,,rock,190,1
+Clangorous Soulblaze,"Inflicts damage to all opposing Pokémon and increases the user's Attack, Defense, Special Attack, Special Defense, and Speed by one stage each.",,dragon,185,1
+Zippy Zap,Inflicts regular damage with no additional effect.,100,electric,80,10
+Splishy Splash,Inflicts regular damage with no additional effect.,100,water,90,15
+Floaty Fall,Inflicts regular damage with no additional effect.,95,flying,90,15
+Pika Papow,Inflicts regular damage with no additional effect.,,electric,,20
+Bouncy Bubble,Inflicts regular damage with no additional effect.,100,water,60,20
+Buzzy Buzz,Inflicts regular damage with no additional effect.,100,electric,60,20
+Sizzly Slide,Inflicts regular damage with no additional effect.,100,fire,60,20
+Glitzy Glow,Inflicts regular damage with no additional effect.,95,psychic,80,15
+Baddy Bad,Inflicts regular damage with no additional effect.,95,dark,80,15
+Sappy Seed,Inflicts regular damage with no additional effect.,90,grass,100,10
+Freezy Frost,Inflicts regular damage with no additional effect.,90,ice,100,10
+Sparkly Swirl,Inflicts regular damage with no additional effect.,85,fairy,120,5
+Veevee Volley,Inflicts regular damage with no additional effect.,,normal,,20
+Double Iron Bash,Hits twice in one turn.,100,steel,60,5
+Max Guard,Prevents any moves from hitting the user this turn.,,normal,,10
+Dynamax Cannon,Sets Light Screen on the user's side of the field after inflicting damage.,100,dragon,100,5
+Snipe Shot,Sets Reflect on the user's side of the field after inflicting damage.,100,water,80,15
+Jaw Lock,Seeds the target after inflicting damage.,100,dark,80,10
+Stuff Cheeks,Cures the entire party of major status effects after inflicting damage.,,normal,,10
+No Retreat,Hits twice in one turn,,fighting,,5
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Max Flare,Inflicts regular damage with no additional effect.,,fire,100,10
+Max Flutterby,Inflicts regular damage with no additional effect.,,bug,10,10
+Max Lightning,Inflicts regular damage with no additional effect.,,electric,10,10
+Max Strike,Inflicts regular damage with no additional effect.,,normal,10,10
+Max Knuckle,Inflicts regular damage with no additional effect.,,fighting,10,10
+Max Phantasm,Inflicts regular damage with no additional effect.,,ghost,10,10
+Max Hailstorm,Inflicts regular damage with no additional effect.,,ice,10,10
+Max Ooze,Inflicts regular damage with no additional effect.,,poison,10,10
+Max Geyser,Inflicts regular damage with no additional effect.,,water,10,10
+Max Airstream,Inflicts regular damage with no additional effect.,,flying,10,10
+Max Starfall,Inflicts regular damage with no additional effect.,,fairy,10,10
+Max Wyrmwind,Inflicts regular damage with no additional effect.,,dragon,10,10
+Max Mindstorm,Inflicts regular damage with no additional effect.,,psychic,10,10
+Max Rockfall,Inflicts regular damage with no additional effect.,,rock,10,10
+Max Quake,Inflicts regular damage with no additional effect.,,ground,10,10
+Max Darkness,Inflicts regular damage with no additional effect.,,dark,10,10
+Max Overgrowth,Inflicts regular damage with no additional effect.,,grass,10,10
+Max Steelspike,Inflicts regular damage with no additional effect.,,steel,10,10
+,,,,,
+,,,,,
+,,,,,
+Drum Beating,Has a $effect_chance% chance to lower the target's Speed by one stage.,100,grass,80,10
+Snap Trap,Prevents the target from fleeing and inflicts damage for 2-5 turns.,100,grass,35,15
+Pyro Ball,Has a $effect_chance% chance to burn the target.,90,fire,120,5
+,,,,,
+,,,,,
+,,,,,
+Breaking Swipe,Lowers the target's Attack by one stage after inflicting damage.,100,dragon,60,15
+Branch Poke,Inflicts regular damage with no additional effect.,100,grass,40,40
+,,,,,
+,,,,,
+Grav Apple,Lowers the target's Defense by one stage after inflicting damage.,100,grass,80,10
+Spirit Break,Has a $effect_chance% chance to lower the target's Special Attack by one stage.,100,fairy,75,15
+Strange Steam,Has a $effect_chance% chance to confuse the target.,95,fairy,90,10
+,,,,,
+,,,,,
+False Surrender,Never misses.,,dark,80,10
+Meteor Assault,User foregoes its next turn to recharge.,100,fighting,150,5
+Eternabeam,User foregoes its next turn to recharge.,90,dragon,160,5
+Steel Beam,"Inflicts damage, and the user takes damage equal to half of its max HP, rounded up.",95,steel,140,5
+Expanding Force,Inflicts regular damage with no additional effect.,100,psychic,80,10
+Steel Roller,Inflicts regular damage with no additional effect.,100,steel,130,5
+Scale Shot,Inflicts regular damage with no additional effect.,90,dragon,25,20
+Meteor Beam,Inflicts regular damage with no additional effect.,90,rock,120,10
+Shell Side Arm,Inflicts regular damage with no additional effect.,100,poison,90,10
+Misty Explosion,Inflicts regular damage with no additional effect.,100,fairy,100,5
+Grassy Glide,Inflicts regular damage with no additional effect.,100,grass,70,20
+Rising Voltage,Inflicts regular damage with no additional effect.,100,electric,70,20
+Terrain Pulse,Inflicts regular damage with no additional effect.,100,normal,50,10
+Skitter Smack,Inflicts regular damage with no additional effect.,90,bug,70,10
+Burning Jealousy,Inflicts regular damage with no additional effect.,100,fire,70,5
+Lash Out,Inflicts regular damage with no additional effect.,100,dark,75,5
+Poltergeist,Inflicts regular damage with no additional effect.,90,ghost,110,5
+Corrosive Gas,Inflicts regular damage with no additional effect.,100,poison,,40
+Coaching,Inflicts regular damage with no additional effect.,,fighting,,10
+Flip Turn,Inflicts regular damage with no additional effect.,100,water,60,20
+Triple Axel,Inflicts regular damage with no additional effect.,90,ice,20,10
+Dual Wingbeat,Inflicts regular damage with no additional effect.,90,flying,40,10
+Scorching Sands,Inflicts regular damage with no additional effect.,100,ground,70,10
+Jungle Healing,Inflicts regular damage with no additional effect.,,grass,,10
+Wicked Blow,Inflicts regular damage with no additional effect.,100,dark,80,5
+Surging Strikes,Inflicts regular damage with no additional effect.,100,water,25,5
+Thunder Cage,Inflicts regular damage with no additional effect.,90,electric,80,15
+Dragon Energy,Inflicts regular damage with no additional effect.,100,dragon,150,5
+Freezing Glare,Inflicts regular damage with no additional effect.,100,psychic,90,10
+Fiery Wrath,Inflicts regular damage with no additional effect.,100,dark,90,10
+Thunderous Kick,Inflicts regular damage with no additional effect.,100,fighting,90,10
+Glacial Lance,Inflicts regular damage with no additional effect.,100,ice,130,5
+Astral Barrage,Inflicts regular damage with no additional effect.,100,ghost,120,5
+Eerie Spell,Inflicts regular damage with no additional effect.,100,psychic,80,5
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
