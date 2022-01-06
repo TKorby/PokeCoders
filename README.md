@@ -6,4 +6,4 @@ Motivation - Created as an exercise for the Object Oriented Data Modeling module
 
 Installation - Clone the repository or download the folder as a zip.
 
-How to use? - 
+How to use - run dataclasses file 
