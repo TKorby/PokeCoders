@@ -1,0 +1,21 @@
+name,move_effect,accuracy,type,power,pp
+Pound,Inflicts regular damage with no additional effect.,100,normal,40,35
+Karate Chop,Has an increased chance for a critical hit.,100,fighting,50,25
+Double Slap,Hits 2-5 times in one turn.,85,normal,15,10
+Comet Punch,Hits 2-5 times in one turn.,85,normal,18,15
+Mega Punch,Inflicts regular damage with no additional effect.,85,normal,80,20
+Pay Day,Scatters money on the ground worth five times the user's level.,100,normal,40,20
+Fire Punch,Has a $effect_chance% chance to burn the target.,100,fire,75,15
+Ice Punch,Has a $effect_chance% chance to freeze the target.,100,ice,75,15
+Thunder Punch,Has a $effect_chance% chance to paralyze the target.,100,electric,75,15
+Scratch,Inflicts regular damage with no additional effect.,100,normal,40,35
+Vise Grip,Inflicts regular damage with no additional effect.,100,normal,55,30
+Guillotine,Causes a one-hit KO.,30,normal,,5
+Razor Wind,Requires a turn to charge before attacking.,100,normal,80,10
+Swords Dance,Raises the user's Attack by two stages.,,normal,,20
+Cut,Inflicts regular damage with no additional effect.,95,normal,50,30
+Gust,Inflicts regular damage and can hit Pokémon in the air.,100,flying,40,35
+Wing Attack,Inflicts regular damage with no additional effect.,100,flying,60,35
+Whirlwind,Immediately ends wild battles.  Forces trainers to switch Pokémon.,,normal,,20
+Fly,"User flies high into the air, dodging all attacks, and hits next turn.",95,flying,90,15
+Bind,Prevents the target from fleeing and inflicts damage for 2-5 turns.,85,normal,15,20

@@ -1,0 +1,21 @@
+name,text_desc,sprite
+Master Ball,Catches a wild Pokémon every time.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png
+Ultra Ball,Tries to catch a wild Pokémon.  Success rate is 2×.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png
+Great Ball,Tries to catch a wild Pokémon.  Success rate is 1.5×.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png
+Poké Ball,Tries to catch a wild Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png
+Safari Ball,Tries to catch a wild Pokémon in the Great Marsh or Safari Zone.  Success rate is 1.5×.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/safari-ball.png
+Net Ball,Tries to catch a wild Pokémon.  Success rate is 3× for water and bug Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/net-ball.png
+Dive Ball,"Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, or surfing.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dive-ball.png
+Nest Ball,"Tries to catch a wild Pokémon.  Success rate is 3.9× for level 1 Pokémon, and drops steadily to 1× at level 30.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nest-ball.png
+Repeat Ball,Tries to catch a wild Pokémon.  Success rate is 3× for previously-caught Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/repeat-ball.png
+Timer Ball,"Tries to catch a wild Pokémon. Success rate increases by 0.1× (Gen V: 0.3×) every turn, to a max of 4×.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/timer-ball.png
+Luxury Ball,Tries to catch a wild Pokémon.  Caught Pokémon start with 200 happiness.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luxury-ball.png
+Premier Ball,Tries to catch a wild Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/premier-ball.png
+Dusk Ball,Tries to catch a wild Pokémon.  Success rate is 3.5× at night and in caves.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dusk-ball.png
+Heal Ball,Tries to catch a wild Pokémon.  Caught Pokémon are immediately healed.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heal-ball.png
+Quick Ball,"Tries to catch a wild Pokémon. Success rate is 4× (Gen V: 5×), but only on the first turn.",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-ball.png
+Cherish Ball,Tries to catch a wild Pokémon.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cherish-ball.png
+Potion,Restores 20 HP.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/potion.png
+Antidote,Cures poison.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/antidote.png
+Burn Heal,Cures a burn.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/burn-heal.png
+Ice Heal,Cures freezing.,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-heal.png

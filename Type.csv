@@ -1,0 +1,19 @@
+name,weaknesses,strengths
+Normal,['fighting'],[]
+Fighting,"['flying', 'psychic', 'fairy']","['normal', 'rock', 'steel', 'ice', 'dark']"
+Flying,"['rock', 'electric', 'ice']","['fighting', 'bug', 'grass']"
+Poison,"['ground', 'psychic']","['grass', 'fairy']"
+Ground,"['water', 'grass', 'ice']","['poison', 'rock', 'steel', 'fire', 'electric']"
+Rock,"['fighting', 'ground', 'steel', 'water', 'grass']","['flying', 'bug', 'fire', 'ice']"
+Bug,"['flying', 'rock', 'fire']","['grass', 'psychic', 'dark']"
+Ghost,"['ghost', 'dark']","['ghost', 'psychic']"
+Steel,"['fighting', 'ground', 'fire']","['rock', 'ice', 'fairy']"
+Fire,"['ground', 'rock', 'water']","['bug', 'steel', 'grass', 'ice']"
+Water,"['grass', 'electric']","['ground', 'rock', 'fire']"
+Grass,"['flying', 'poison', 'bug', 'fire', 'ice']","['ground', 'rock', 'water']"
+Electric,['ground'],"['flying', 'water']"
+Psychic,"['bug', 'ghost', 'dark']","['fighting', 'poison']"
+Ice,"['fighting', 'rock', 'steel', 'fire']","['flying', 'ground', 'grass', 'dragon']"
+Dragon,"['ice', 'dragon', 'fairy']",['dragon']
+Dark,"['fighting', 'bug', 'fairy']","['ghost', 'psychic']"
+Fairy,"['poison', 'steel']","['fighting', 'dragon', 'dark']"
